@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Webex Overlay</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div class="eyebrow">Mode Selection</div>
+        <h1>Live meeting captions</h1>
+        <div class="mode-toggle" style="margin-top: 10px; margin-bottom: 10px;">
+          <select id="modeSelect" style="padding: 6px; border-radius: 6px; background: #1e293b; color: white; border: 1px solid #475569; font-size: 14px; width: 100%;">
+            <option value="webex">Webex Mode (Screen Scraping)</option>
+            <option value="audio">Audio Capture Mode (Mic & Loa)</option>
+          </select>
+        </div>
+        <p class="subtitle" id="modeSubtitle">This version reads the Webex page directly and shows captions plus best-effort speaker detection.</p>
+        <div class="status-row">
+          <span id="status" class="status-pill">Waiting</span>
+          <span id="detail" class="detail-text">Open a Webex meeting tab</span>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="actions">
+          <button id="startBtn" class="primary">Start</button>
+          <button id="stopBtn" class="secondary">Stop</button>
+        </div>
+        <div class="meta-grid">
+          <div class="meta-card">
+            <span class="meta-label">Speaker</span>
+            <strong id="speakerText">-</strong>
+          </div>
+          <div class="meta-card">
+            <span class="meta-label">Caption</span>
+            <strong id="captionCount">0 chars</strong>
+          </div>
+          <div class="meta-card">
+            <span class="meta-label">State</span>
+            <strong id="monitorState">Idle</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <h2>Current caption</h2>
+          <button id="refreshBtn" class="ghost">Refresh</button>
+        </div>
+        <div id="captionBox" class="result-box">
+          <div class="empty-state">
+            <div class="empty-title">No caption yet</div>
+            <div class="empty-text">Enable Webex live captions and speak in the meeting.</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel debug-panel">
+        <div class="section-head compact">
+          <div>
+            <h2>Debug timeline</h2>
+            <p class="section-subtitle">Shows what the overlay sees on the page.</p>
+          </div>
+          <button id="clearDebugBtn" class="ghost tiny">Clear</button>
+        </div>
+        <div id="debugFeed" class="debug-feed"></div>
+      </section>
+    </main>
+    <script src="popup.js"></script>
+  </body>
+</html>

@@ -1,0 +1,70 @@
+﻿name: Weather data pipeline
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions uses UTC; runs every 6 hours.
+    - cron: "15 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weather-data-pipeline
+  cancel-in-progress: false
+
+jobs:
+  collect-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      FORECAST_HOURS: "6"
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
+      NCHMF_COOKIE: ${{ secrets.NCHMF_COOKIE }}
+      SMTP_HOST: smtp.gmail.com
+      SMTP_PORT: "587"
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
+      MAIL_FROM: ${{ secrets.SMTP_USER }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Collect, analyze and email data
+        run: python download_combined.py
+
+      - name: Upload generated files
+        uses: actions/upload-artifact@v4
+        with:
+          name: weather-data-${{ github.run_id }}
+          path: |
+            outputs/*.csv
+            outputs/*.geojson
+            outputs/*.json
+            outputs/*.txt
+            !outputs/*.raw.json
+          retention-days: 30
+
+      - name: Publish Power BI data to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add outputs/powerbi_data.csv outputs/rainfall.csv outputs/landslide_warnings.csv outputs/map.geojson outputs/pipeline_metadata.json outputs/ai_summary.txt
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "data: refresh weather dataset"
+          git push

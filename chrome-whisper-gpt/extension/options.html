@@ -1,0 +1,40 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Chrome Whisper GPT Settings</title>
+    <link rel="stylesheet" href="options.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="intro">
+        <div class="eyebrow">Connection</div>
+        <h1>Backend settings</h1>
+        <p>Point the extension to your local Python service running faster-whisper and GPT calls.</p>
+      </section>
+
+      <section class="panel">
+        <label class="field">
+          <span>Backend URL</span>
+          <input id="backendUrl" type="text" placeholder="http://127.0.0.1:8000" />
+        </label>
+
+        <div class="help-grid">
+          <div class="help-card">
+            <span class="help-label">Default</span>
+            <strong>127.0.0.1:8000</strong>
+          </div>
+          <div class="help-card">
+            <span class="help-label">Mode</span>
+            <strong>Local only</strong>
+          </div>
+        </div>
+
+        <button id="saveBtn">Save settings</button>
+        <p id="message" class="message"></p>
+      </section>
+    </main>
+    <script src="options.js"></script>
+  </body>
+</html>

@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Whisper GPT",
+  "version": "0.3.0",
+  "description": "Webex overlay for live captions and active speaker detection.",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "tabCapture",
+    "offscreen",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://*.webex.com/*",
+    "http://127.0.0.1/*",
+    "http://localhost/*"
+  ],
+  "background": {
+    "service_worker": "service_worker.js"
+  },
+  "action": {
+    "default_title": "Chrome Whisper GPT",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.webex.com/*"],
+      "js": ["webex_overlay.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
