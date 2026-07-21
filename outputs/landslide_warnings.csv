@@ -1,19 +1,13 @@
 ﻿record_type,record_id,collected_at,observed_at,forecast_hours,name,commune,district,province,latitude,longitude,rainfall_mm,risk_level,flash_flood_risk,color,source
-landslide_warning,nchmf-29988444-5897,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Bản Hon,Khun Há,Tam Đường,Lai Châu,22.308,103.563,64.701,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988445-5913,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Pắc Ta,Pắc Ta,Tân Uyên,Lai Châu,22.08,103.839,61.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988449-6139,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Cốc San,Cốc San,TP.Lào Cai,Lào Cai,22.46,103.942,55.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988448-11020,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Nậm Khắt,Púng Luông,Mù Căng Chải,Lào Cai,21.689,104.222,53.21,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988446-6148,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Phìn Ngan,Bát Xát,Bát Xát,Lào Cai,22.465,103.846,55.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988447-6149,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Quang Kim,Bát Xát,Bát Xát,Lào Cai,22.512,103.868,112.6,Cao,Cao,,NCHMF
-landslide_warning,nchmf-29988454-3820,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Cao Bồ,Cao Bồ,Vị Xuyên,Tuyên Quang,22.754,104.883,95.4,Cao,Cao,,NCHMF
-landslide_warning,nchmf-29988451-3709,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Tân Lập,Tân Quang,Bắc Quang,Tuyên Quang,22.545,104.834,68.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988452-3809,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Tân Nam,Tiên Nguyên,Quang Bình,Tuyên Quang,22.492,104.595,55.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988452-3809,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Tân Nam,Quang Bình,Quang Bình,Tuyên Quang,22.492,104.595,55.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988453-3815,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Xuân Minh,Thông Nguyên,Quang Bình,Tuyên Quang,22.501,104.754,56.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988450-3696,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Yên Phong,Bắc Mê,Bắc Mê,Tuyên Quang,22.776,105.408,55.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988455-457,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Đôn Phong,Phong Quang,Bạch Thông,Thái Nguyên,22.213,105.754,73.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988456-550,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Đức Vân,Ngân Sơn,Ngân Sơn,Thái Nguyên,22.451,106.044,70.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988458-8444,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Bắc Sơn,Hải Sơn,TP.Móng Cái,Quảng Ninh,21.604,107.864,78.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988459-8446,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Hải Đông,P. Móng Cái 3,TP.Móng Cái,Quảng Ninh,21.522,107.875,51.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988457-8425,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Quảng Sơn,Đường Hoa,Hải Hà,Quảng Ninh,21.525,107.635,68.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-29988460-1375,2026-07-21T15:57:48+07:00,2026-07-21T15:00:00+07:00,6,Xã Mương Mán,Hàm Kiệm,Hàm Thuận Nam,Lâm Đồng,10.97,107.994,87.3,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989243-6139,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Xã Cốc San,Cốc San,TP.Lào Cai,Lào Cai,22.46,103.942,55.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989241-6148,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Xã Phìn Ngan,Bát Xát,Bát Xát,Lào Cai,22.465,103.846,55.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989242-6149,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Xã Quang Kim,Bát Xát,Bát Xát,Lào Cai,22.512,103.868,112.6,Cao,Cao,,NCHMF
+landslide_warning,nchmf-29989244-3874,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Xã Ngam La,Yên Minh,Yên Minh,Tuyên Quang,23.048,105.168,50.93,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989244-3874,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Xã Ngam La,Mậu Duệ,Yên Minh,Tuyên Quang,23.048,105.168,50.93,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989245-1770,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Thị trấn Đông Khê,Đông Khê,Thạch An,Cao Bằng,22.425,106.443,64.28,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989246-5775,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Thị trấn Thất Khê,Thất Khê,Tràng Định,Lạng Sơn,22.254,106.475,58.937,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989247-5758,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Xã Chi Lăng,Thất Khê,Tràng Định,Lạng Sơn,22.289,106.448,58.982,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989248-5759,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Xã Chí Minh,Thất Khê,Tràng Định,Lạng Sơn,22.341,106.405,54.749,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989249-5760,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Xã Đại Đồng,Quốc Khánh,Tràng Định,Lạng Sơn,22.261,106.498,56.636,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989249-5760,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Xã Đại Đồng,Thất Khê,Tràng Định,Lạng Sơn,22.261,106.498,56.636,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989250-5762,2026-07-21T21:22:09+07:00,2026-07-21T21:00:00+07:00,6,Xã Đội Cấn,Quốc Khánh,Tràng Định,Lạng Sơn,22.311,106.553,61.76,Trung bình,Trung bình,,NCHMF

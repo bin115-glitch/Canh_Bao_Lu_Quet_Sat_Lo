@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "query_time": "2026-07-21 15:00:00",
-  "collected_at": "2026-07-21T15:57:48+07:00",
+  "query_time": "2026-07-21 21:00:00",
+  "collected_at": "2026-07-21T21:22:09+07:00",
   "forecast_hours": 6,
   "rainfall_rows": 2586,
-  "warning_rows": 18,
+  "warning_rows": 12,
   "summary_engine": "local",
   "email_configured": false,
   "email_sent": false

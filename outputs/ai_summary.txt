@@ -1,6 +1,6 @@
 BÁO CÁO TỰ ĐỘNG
 - Số trạm mưa: 2586
-- Lượng mưa lớn nhất: 112.6 mm
-- Số bản ghi cảnh báo: 18
-- Phân bố nguy cơ sạt lở: Trung bình: 16, Cao: 2
+- Lượng mưa lớn nhất: 46.2 mm
+- Số bản ghi cảnh báo: 12
+- Phân bố nguy cơ sạt lở: Trung bình: 11, Cao: 1
 Lưu ý: Nội dung tự động; cần đối chiếu nguồn chính thức trước khi ra quyết định.
