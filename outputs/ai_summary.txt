@@ -4,3 +4,4 @@ BÁO CÁO TỰ ĐỘNG
 - Số bản ghi cảnh báo: 1
 - Phân bố nguy cơ sạt lở: Trung bình: 1
 Lưu ý: Nội dung tự động; cần đối chiếu nguồn chính thức trước khi ra quyết định.
+- Gemini tạm thời không khả dụng: RuntimeError
