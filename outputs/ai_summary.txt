@@ -1,32 +1,26 @@
-**Bản tin Phân tích Thiên tai Việt Nam: Cập nhật tình hình Mưa và Sạt lở đất**
+**BẢN TIN PHÂN TÍCH TÌNH HÌNH THIÊN TAI VIỆT NAM**
+**Cập nhật lúc:** 21:22 ngày 22 tháng 7 năm 2026
 
-**Thời gian cập nhật:** Dữ liệu được tổng hợp đến 15:00 ngày 22 tháng 7 năm 2026.
-
-Theo dữ liệu hiện có, Việt Nam ghi nhận tổng cộng **13 cảnh báo rủi ro thiên tai**. Trong đó, có **1 cảnh báo ở mức độ Cao** và 12 cảnh báo ở mức độ Trung bình. Mạng lưới ghi nhận mưa đang hoạt động với 2586 trạm.
+Chào mừng quý vị, tôi là trợ lý phân tích thiên tai Việt Nam. Dưới đây là bản tổng hợp tình hình dựa trên dữ liệu thu thập được:
 
 **Điểm đáng chú ý:**
+*   Hệ thống đang theo dõi 2586 trạm đo mưa trên toàn quốc.
+*   Ghi nhận tổng cộng 229 cảnh báo đang hoạt động.
+*   Có 28 khu vực được xác định có nguy cơ rủi ro **Cao** về thiên tai.
+*   Lượng mưa lớn nhất được ghi nhận là **93.2mm** tại trạm Sín Chải (Tủa Chùa, Điện Biên), cho thấy nguy cơ mưa to cục bộ.
 
-*   **Rủi ro Cao:** Khu vực **Xã Mương Mán, xã Hàm Kiệm, huyện Hàm Thuận Nam, tỉnh Lâm Đồng** được cảnh báo rủi ro sạt lở đất và lũ quét ở mức **Cao** với lượng mưa ghi nhận là 114.9mm.
-*   **Mưa lớn nhất:** Trạm **Bản Phùng** (tọa độ 22.785, 104.582) ghi nhận lượng mưa lớn nhất là 51.4mm.
+**Địa điểm rủi ro cao:**
+Dựa trên các cảnh báo sạt lở đất và lũ quét, một số khu vực được đánh giá có nguy cơ **CAO** cần đặc biệt chú ý, bao gồm nhưng không giới hạn:
+*   **Tỉnh Thái Nguyên:** Các khu vực như Xã Mỹ Phương (Ba Bể), Xã Phúc Trìu (TP.Thái Nguyên), Xã Đồng Lạc (Chợ Đồn), Xã Nam Cường (Chợ Đồn), Thị trấn Đu (Phú Lương), Xã Cù Vân (Đại Từ), Thị trấn Vân Tùng (Ngân Sơn), Phường Phúc Thuận (TP.Phổ Yên), Xã Phúc Hà (TP.Thái Nguyên), Xã Tân Cương (TP.Thái Nguyên), Xã Cổ Lũng (Phú Lương).
+*   **Tỉnh Lào Cai:** Xã Thịnh Hưng (Yên Bình), Xã Chấn Thịnh (Văn Chấn).
+*   **Tỉnh Phú Thọ:** Phường Tiên Cát (TP.Việt Trì).
+*   **Tỉnh Tuyên Quang:** Xã Giáp Trung (Bắc Mê).
 
-**Các khu vực rủi ro Trung bình cần lưu ý:**
+**Khuyến nghị quan trọng:**
+Đây là thông tin phân tích tình hình. **Không phải là cảnh báo pháp lý.**
+Chúng tôi khuyến nghị quý vị và người dân tại các khu vực được đề cập, đặc biệt là các địa điểm có rủi ro cao, cần:
+1.  **Theo dõi chặt chẽ và thường xuyên** các bản tin dự báo, cảnh báo thiên tai từ các cơ quan khí tượng thủy văn và chính quyền địa phương.
+2.  **Chủ động thực hiện các biện pháp phòng ngừa** cần thiết để bảo vệ tính mạng và tài sản.
+3.  **Sẵn sàng các phương án ứng phó, sơ tán** khi có yêu cầu từ chính quyền địa phương.
 
-Một số địa điểm khác cũng đang chịu rủi ro sạt lở đất và lũ quét ở mức **Trung bình** do mưa, bao gồm các khu vực tại:
-
-*   **Miền núi phía Bắc:**
-    *   Xã Bản Phùng (Xín Mần hoặc Bản Máy, Hoàng Su Phì, Tuyên Quang)
-    *   Xã Ngam La (Mậu Duệ hoặc Yên Minh, Yên Minh, Tuyên Quang)
-    *   Xã Phong Dụ Thượng (Văn Yên, Lào Cai)
-    *   Xã Nậm Khắt (Mù Căng Chải, Lào Cai)
-    *   Xã Mường Bon (Tà Hộc hoặc Chiềng Mung, Mai Sơn, Sơn La)
-    *   Xã Hạnh Dịch (Tiền Phong, Quế Phong, Nghệ An)
-*   **Khu vực miền Trung và Tây Nguyên:**
-    *   Xã Cát Tường (Xuân An, Phù Cát, Gia Lai)
-    *   Thị trấn Krông Kmar (Krông Bông, Đắk Lắk)
-    *   Xã Phước Thể (Liên Hương, Tuy Phong, Lâm Đồng)
-
-**Khuyến nghị:**
-
-Người dân tại các khu vực được cảnh báo, đặc biệt là tại Xã Mương Mán (Lâm Đồng) và các vùng núi phía Bắc, cần hết sức cảnh giác trước nguy cơ sạt lở đất và lũ quét, chủ động các biện pháp phòng tránh và ứng phó kịp thời.
-
-**LƯU Ý QUAN TRỌNG:** Đây là bản tin tổng hợp dựa trên dữ liệu hiện có và mang tính chất tham khảo, không phải là cảnh báo pháp lý. Để có thông tin chính xác và kịp thời nhất, xin vui lòng kiểm tra các nguồn tin tức chính thức từ các cơ quan chức năng như Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, Ban Chỉ đạo Quốc gia về Phòng, chống thiên tai và chính quyền địa phương.
+Vui lòng kiểm tra các nguồn thông tin chính thức để có hướng dẫn cụ thể và kịp thời nhất.
