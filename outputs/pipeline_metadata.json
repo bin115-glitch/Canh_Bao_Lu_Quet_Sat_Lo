@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "query_time": "2026-07-22 10:00:00",
-  "collected_at": "2026-07-22T10:46:15+07:00",
+  "query_time": "2026-07-22 11:00:00",
+  "collected_at": "2026-07-22T11:02:49+07:00",
   "forecast_hours": 6,
   "rainfall_rows": 2586,
   "warning_rows": 1,
