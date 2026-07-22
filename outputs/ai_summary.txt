@@ -1,26 +1,24 @@
-**BẢN TIN PHÂN TÍCH TÌNH HÌNH THIÊN TAI VIỆT NAM**
-**Cập nhật lúc:** 21:22 ngày 22 tháng 7 năm 2026
-
-Chào mừng quý vị, tôi là trợ lý phân tích thiên tai Việt Nam. Dưới đây là bản tổng hợp tình hình dựa trên dữ liệu thu thập được:
+**Bản tin Phân tích Thiên tai Việt Nam**
+**Cập nhật: Sáng ngày 23 tháng 7 năm 2026, lúc 02:43 +07:00**
 
 **Điểm đáng chú ý:**
-*   Hệ thống đang theo dõi 2586 trạm đo mưa trên toàn quốc.
-*   Ghi nhận tổng cộng 229 cảnh báo đang hoạt động.
-*   Có 28 khu vực được xác định có nguy cơ rủi ro **Cao** về thiên tai.
-*   Lượng mưa lớn nhất được ghi nhận là **93.2mm** tại trạm Sín Chải (Tủa Chùa, Điện Biên), cho thấy nguy cơ mưa to cục bộ.
 
-**Địa điểm rủi ro cao:**
-Dựa trên các cảnh báo sạt lở đất và lũ quét, một số khu vực được đánh giá có nguy cơ **CAO** cần đặc biệt chú ý, bao gồm nhưng không giới hạn:
-*   **Tỉnh Thái Nguyên:** Các khu vực như Xã Mỹ Phương (Ba Bể), Xã Phúc Trìu (TP.Thái Nguyên), Xã Đồng Lạc (Chợ Đồn), Xã Nam Cường (Chợ Đồn), Thị trấn Đu (Phú Lương), Xã Cù Vân (Đại Từ), Thị trấn Vân Tùng (Ngân Sơn), Phường Phúc Thuận (TP.Phổ Yên), Xã Phúc Hà (TP.Thái Nguyên), Xã Tân Cương (TP.Thái Nguyên), Xã Cổ Lũng (Phú Lương).
-*   **Tỉnh Lào Cai:** Xã Thịnh Hưng (Yên Bình), Xã Chấn Thịnh (Văn Chấn).
-*   **Tỉnh Phú Thọ:** Phường Tiên Cát (TP.Việt Trì).
-*   **Tỉnh Tuyên Quang:** Xã Giáp Trung (Bắc Mê).
+Dữ liệu cập nhật cho thấy tình hình mưa lớn và nguy cơ sạt lở đất vẫn đang diễn biến phức tạp tại nhiều khu vực miền núi phía Bắc.
+*   **Mưa lớn:** Lượng mưa lớn nhất được ghi nhận là **93.4 mm** tại trạm Sín Chải (Tủa Chùa, Điện Biên). Nhiều trạm đo mưa khác cũng ghi nhận lượng mưa đáng kể (trên 50 mm) tại các tỉnh lân cận.
+*   **Cảnh báo sạt lở đất:** Đã ghi nhận tổng cộng **161 cảnh báo**, trong đó có **21 cảnh báo nguy cơ cao** về sạt lở đất và lũ quét. Tất cả các cảnh báo nguy cơ cao này đều ở mức **"Cao"** và đi kèm nguy cơ lũ quét cũng ở mức "Cao".
 
-**Khuyến nghị quan trọng:**
-Đây là thông tin phân tích tình hình. **Không phải là cảnh báo pháp lý.**
-Chúng tôi khuyến nghị quý vị và người dân tại các khu vực được đề cập, đặc biệt là các địa điểm có rủi ro cao, cần:
-1.  **Theo dõi chặt chẽ và thường xuyên** các bản tin dự báo, cảnh báo thiên tai từ các cơ quan khí tượng thủy văn và chính quyền địa phương.
-2.  **Chủ động thực hiện các biện pháp phòng ngừa** cần thiết để bảo vệ tính mạng và tài sản.
-3.  **Sẵn sàng các phương án ứng phó, sơ tán** khi có yêu cầu từ chính quyền địa phương.
+**Địa điểm rủi ro cao cần chú ý:**
 
-Vui lòng kiểm tra các nguồn thông tin chính thức để có hướng dẫn cụ thể và kịp thời nhất.
+Các địa phương có nhiều điểm cảnh báo nguy cơ sạt lở đất và lũ quét ở mức **"Cao"** bao gồm:
+
+*   **Tỉnh Thái Nguyên:** Đặc biệt tại các khu vực như Phú Lương (Thị trấn Đu), TP.Thái Nguyên (Xã Phúc Trìu), Chợ Đồn (Xã Đồng Lạc, Xã Nam Cường), Đồng Hỷ (Thị trấn Hóa Thượng, Thị trấn Sông Cầu), TP.Phổ Yên (P. Phúc Thuận).
+*   **Tỉnh Phú Thọ:** Các khu vực có cảnh báo nguy cơ cao bao gồm Đà Bắc (Xã Tân Pheo), Thanh Sơn (Xã Khả Cửu), và TP.Hòa Bình (Xã Độc Lập).
+*   **Tỉnh Điện Biên:** Khu vực Tủa Chùa (Xã Xín Chải).
+*   **Tỉnh Tuyên Quang:** Khu vực Bắc Mê (Xã Giáp Trung).
+*   **Tỉnh Lào Cai:** Khu vực Yên Bình (Xã Thịnh Hưng).
+
+**Khuyến nghị:**
+
+Người dân tại các khu vực có nguy cơ cao cần đặc biệt cảnh giác, chủ động theo dõi diễn biến thời tiết, sạt lở đất và lũ quét. Hãy kiểm tra và tuân thủ các hướng dẫn từ các nguồn thông tin chính thức của cơ quan chức năng địa phương và quốc gia.
+
+**Lưu ý:** Dữ liệu này được tổng hợp từ các trạm quan trắc và cảnh báo hiện có. Đây là bản tin phân tích tình hình và không phải là cảnh báo pháp lý.
