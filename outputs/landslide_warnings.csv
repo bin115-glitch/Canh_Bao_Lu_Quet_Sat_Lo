@@ -1,2 +1,14 @@
 ﻿record_type,record_id,collected_at,observed_at,forecast_hours,name,commune,district,province,latitude,longitude,rainfall_mm,risk_level,flash_flood_risk,color,source
-landslide_warning,nchmf-29989507-1375,2026-07-22T11:21:18+07:00,2026-07-22T11:00:00+07:00,6,Xã Mương Mán,Hàm Kiệm,Hàm Thuận Nam,Lâm Đồng,10.97,107.994,93.2,Cao,Cao,,NCHMF
+landslide_warning,nchmf-29989728-8812,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Mường Bon,Tà Hộc,Mai Sơn,Sơn La,21.241,104.069,,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989728-8812,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Mường Bon,Chiềng Mung,Mai Sơn,Sơn La,21.241,104.069,,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989729-11020,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Nậm Khắt,Púng Luông,Mù Căng Chải,Lào Cai,21.689,104.222,50.52,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989730-11111,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Phong Dụ Thượng,Phong Dụ Thượng,Văn Yên,Lào Cai,21.824,104.432,51.53,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989731-3752,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Bản Phùng,Xín Mần,Hoàng Su Phì,Tuyên Quang,22.789,104.583,65.67,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989731-3752,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Bản Phùng,Bản Máy,Hoàng Su Phì,Tuyên Quang,22.789,104.583,65.67,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989732-3874,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Ngam La,Mậu Duệ,Yên Minh,Tuyên Quang,23.048,105.168,51.76,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989732-3874,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Ngam La,Yên Minh,Yên Minh,Tuyên Quang,23.048,105.168,51.76,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989733-6913,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Hạnh Dịch,Tiền Phong,Quế Phong,Nghệ An,19.715,104.878,59.136,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989734-1022,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Cát Tường,Xuân An,Phù Cát,Gia Lai,13.987,109.105,62.12,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989735-1932,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Thị trấn Krông Kmar,Krông Bông,Krông Bông,Đắk Lắk,12.504,108.332,55.81,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989736-1375,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Mương Mán,Hàm Kiệm,Hàm Thuận Nam,Lâm Đồng,10.97,107.994,114.9,Cao,Cao,,NCHMF
+landslide_warning,nchmf-29989737-1434,2026-07-22T15:44:34+07:00,2026-07-22T15:00:00+07:00,6,Xã Phước Thể,Liên Hương,Tuy Phong,Lâm Đồng,11.252,108.739,59.536,Trung bình,Trung bình,,NCHMF
