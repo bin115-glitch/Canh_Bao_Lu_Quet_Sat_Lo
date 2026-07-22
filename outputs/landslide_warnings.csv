@@ -1,2 +1,2 @@
 ﻿record_type,record_id,collected_at,observed_at,forecast_hours,name,commune,district,province,latitude,longitude,rainfall_mm,risk_level,flash_flood_risk,color,source
-landslide_warning,nchmf-29989481-1375,2026-07-22T09:24:05+07:00,2026-07-22T09:00:00+07:00,6,Xã Mương Mán,Hàm Kiệm,Hàm Thuận Nam,Lâm Đồng,10.97,107.994,84.3,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-29989490-1375,2026-07-22T10:00:27+07:00,2026-07-22T10:00:00+07:00,6,Xã Mương Mán,Hàm Kiệm,Hàm Thuận Nam,Lâm Đồng,10.97,107.994,92.0,Cao,Cao,,NCHMF
