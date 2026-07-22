@@ -1,14 +1,17 @@
 ﻿from __future__ import annotations
 
 import json
+import os
 import tempfile
 import unittest
+from unittest.mock import patch
 from datetime import datetime
 from pathlib import Path
 
 from weather_pipeline import (
     VIETNAM_TZ,
     format_query_time,
+    generate_summary,
     normalize_landslide,
     normalize_vrain,
     parse_dotnet_date,
@@ -51,6 +54,35 @@ class PipelineTests(unittest.TestCase):
             self.assertEqual(len(geojson["features"]), 2)
             self.assertEqual(geojson["features"][0]["geometry"]["coordinates"], [105.2, 21.1])
 
+    def test_gemini_rest_response_is_used(self) -> None:
+        class FakeResponse:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *args):
+                return False
+
+            def read(self) -> bytes:
+                return json.dumps({
+                    "candidates": [{"content": {"parts": [{"text": "Bản tin Gemini"}]}}]
+                }).encode("utf-8")
+
+        statistics = {
+            "rainfall_station_count": 1,
+            "warning_count": 0,
+            "risk_counts": {},
+            "max_rainfall_mm": 12.3,
+            "top_rainfall": [],
+            "top_warnings": [],
+        }
+        with patch.dict(os.environ, {"GEMINI_API_KEY": "test-key", "GEMINI_MODEL": "gemini-test"}), patch(
+            "weather_pipeline.urlopen", return_value=FakeResponse()
+        ) as mocked_urlopen:
+            summary, engine = generate_summary(statistics)
+        self.assertEqual(summary, "Bản tin Gemini")
+        self.assertEqual(engine, "gemini-test")
+        request = mocked_urlopen.call_args.args[0]
+        self.assertEqual(request.headers["X-goog-api-key"], "test-key")
 
 if __name__ == "__main__":
     unittest.main()

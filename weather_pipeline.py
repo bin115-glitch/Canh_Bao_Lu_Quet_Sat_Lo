@@ -12,6 +12,7 @@ from datetime import datetime, timezone
 from email.message import EmailMessage
 from pathlib import Path
 from typing import Any
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
@@ -261,27 +262,60 @@ def generate_summary(statistics: dict[str, object]) -> tuple[str, str]:
     model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash").strip()
     if not api_key:
         return fallback, "local"
+    payload = {
+        "rainfall_station_count": statistics["rainfall_station_count"],
+        "warning_count": statistics["warning_count"],
+        "risk_counts": statistics["risk_counts"],
+        "max_rainfall_mm": statistics["max_rainfall_mm"],
+        "top_rainfall": statistics["top_rainfall"],
+        "top_warnings": statistics["top_warnings"],
+    }
+    prompt = (
+        "Bạn là trợ lý phân tích thiên tai Việt Nam. Viết bản tin ngắn, nêu điểm đáng chú ý, "
+        "địa điểm rủi ro cao và khuyến nghị kiểm tra nguồn chính thức. Không tự tạo dữ kiện và "
+        "không khẳng định đây là cảnh báo pháp lý. Dữ liệu JSON:\n"
+        + json.dumps(payload, ensure_ascii=False)
+    )
+    endpoint = (
+        "https://generativelanguage.googleapis.com/v1beta/models/"
+        + model
+        + ":generateContent"
+    )
+    body = json.dumps(
+        {"contents": [{"parts": [{"text": prompt}]}]}, ensure_ascii=False
+    ).encode("utf-8")
+    request = Request(
+        endpoint,
+        data=body,
+        headers={
+            "Content-Type": "application/json; charset=utf-8",
+            "x-goog-api-key": api_key,
+        },
+        method="POST",
+    )
     try:
-        from google import genai
-        payload = {
-            "rainfall_station_count": statistics["rainfall_station_count"],
-            "warning_count": statistics["warning_count"],
-            "risk_counts": statistics["risk_counts"],
-            "max_rainfall_mm": statistics["max_rainfall_mm"],
-            "top_rainfall": statistics["top_rainfall"],
-            "top_warnings": statistics["top_warnings"],
-        }
-        prompt = (
-            "Bạn là trợ lý phân tích thiên tai Việt Nam. Viết bản tin ngắn, nêu điểm đáng chú ý, "
-            "địa điểm rủi ro cao và khuyến nghị kiểm tra nguồn chính thức. Không tự tạo dữ kiện và "
-            "không khẳng định đây là cảnh báo pháp lý. Dữ liệu JSON:\n"
-            + json.dumps(payload, ensure_ascii=False)
-        )
-        response = genai.Client(api_key=api_key).models.generate_content(model=model, contents=prompt)
-        text = (response.text or "").strip()
-        return (text or fallback), model if text else "local"
+        with urlopen(request, timeout=90) as response:
+            result = json.loads(response.read().decode("utf-8"))
+        parts = result.get("candidates", [{}])[0].get("content", {}).get("parts", [])
+        text = "".join(str(part.get("text", "")) for part in parts).strip()
+        if not text:
+            raise PipelineError("Gemini returned no text candidate")
+        return text, model
+    except HTTPError as exc:
+        try:
+            detail = json.loads(exc.read().decode("utf-8")).get("error", {})
+            message = str(detail.get("message", exc.reason))
+            status = str(detail.get("status", "HTTP_ERROR"))
+        except Exception:
+            message, status = str(exc.reason), "HTTP_ERROR"
+        safe_error = f"HTTP {exc.code} {status}: {message}"[:500]
+    except URLError as exc:
+        safe_error = f"Network error: {exc.reason}"[:500]
     except Exception as exc:
-        return fallback + f"\n- Gemini tạm thời không khả dụng: {type(exc).__name__}", "local"
+        safe_error = f"{type(exc).__name__}: {exc}"[:500]
+    safe_error = safe_error.replace(api_key, "[REDACTED]")
+    print(f"Gemini request failed: {safe_error}", file=sys.stderr)
+    return fallback + f"\n- Gemini tạm thời không khả dụng: {safe_error}", "local"
 
 
 def write_json(path: Path, data: object) -> None:
