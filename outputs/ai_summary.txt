@@ -1,7 +1,20 @@
-BÁO CÁO TỰ ĐỘNG
-- Số trạm mưa: 2586
-- Lượng mưa lớn nhất: 46.6 mm
-- Số bản ghi cảnh báo: 1
-- Phân bố nguy cơ sạt lở: Cao: 1
-Lưu ý: Nội dung tự động; cần đối chiếu nguồn chính thức trước khi ra quyết định.
-- Gemini tạm thời không khả dụng: RuntimeError
+BẢN TIN PHÂN TÍCH THIÊN TAI VIỆT NAM
+Cập nhật lúc 11:21 ngày 22/07/2026.
+
+**Điểm đáng chú ý:**
+
+*   Trong số 2586 trạm quan trắc lượng mưa, trạm **Cao Bồ 2** ghi nhận lượng mưa lớn nhất là **46.6 mm** ở mức "Mưa vừa".
+*   Nhiều khu vực khác cũng ghi nhận lượng mưa đáng kể từ 12.0 mm đến 46.4 mm, chủ yếu ở mức "Mưa vừa" và "Mưa nhỏ".
+
+**Địa điểm rủi ro cao:**
+
+*   Hiện tại, có **01 cảnh báo thiên tai** đang có hiệu lực với mức độ rủi ro **CAO**.
+*   Địa điểm cụ thể có nguy cơ cao về **sạt lở đất và lũ quét** là **Xã Mương Mán, thuộc Xã Hàm Kiệm, Huyện Hàm Thuận Nam, Tỉnh Lâm Đồng**.
+*   Cảnh báo này có hiệu lực trong **06 giờ** kể từ 11:00 cùng ngày, với lượng mưa ghi nhận liên quan là **93.2 mm**. (Nguồn: NCHMF)
+
+**Khuyến nghị:**
+
+Người dân tại các khu vực nêu trên và các vùng lân cận cần đặc biệt chú ý, theo dõi sát diễn biến thời tiết. Đồng thời, khuyến nghị kiểm tra và tuân thủ các thông báo từ **nguồn thông tin chính thức của cơ quan chức năng** (như Tổng cục Khí tượng Thủy văn, Ban Chỉ đạo Quốc gia về Phòng chống thiên tai) để có thông tin chi tiết và hướng dẫn phòng tránh kịp thời.
+
+---
+*Lưu ý: Đây là bản tin phân tích tổng hợp dựa trên dữ liệu thu thập được và không mang tính chất cảnh báo pháp lý.*
