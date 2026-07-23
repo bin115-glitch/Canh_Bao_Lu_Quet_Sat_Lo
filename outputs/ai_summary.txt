@@ -1,37 +1,33 @@
-**Bản tin Phân tích Tình hình Thiên tai Việt Nam**
+Chào mừng quý vị đến với bản tin phân tích thiên tai Việt Nam.
 
-**Thời gian cập nhật:** Tính đến 10:44 ngày 23/07/2026 (theo dữ liệu gần nhất)
+**BẢN TIN PHÂN TÍCH THIÊN TAI VIỆT NAM**
 
-Là trợ lý phân tích thiên tai Việt Nam, chúng tôi xin gửi đến quý vị bản tin tổng hợp tình hình và các điểm đáng chú ý về thiên tai trên cả nước dựa trên dữ liệu hiện có.
+**Cập nhật lúc:** 15:44 ngày 23 tháng 07 năm 2026 (giờ Hà Nội)
 
----
+Dựa trên dữ liệu cập nhật từ hệ thống phân tích thiên tai quốc gia, chúng tôi xin cung cấp thông tin tổng quan về tình hình mưa và các cảnh báo nguy cơ. Hiện có 2586 trạm đo mưa đang hoạt động và tổng cộng 176 cảnh báo đã được phát đi.
 
 **Điểm đáng chú ý:**
 
-*   **Số lượng cảnh báo và trạm mưa:** Hệ thống ghi nhận có 2586 trạm đo mưa đang hoạt động và tổng cộng 186 cảnh báo đang có hiệu lực.
-*   **Mức độ rủi ro:** Trong số các cảnh báo hiện hành, có **2 cảnh báo ở mức Rất cao** và **27 cảnh báo ở mức Cao** về nguy cơ sạt lở đất và lũ quét. Các cảnh báo còn lại ở mức trung bình.
-*   **Lượng mưa lớn nhất:** Lượng mưa lớn nhất ghi nhận được là **180.6 mm** tại trạm **Mường Mươn**. Các điểm có lượng mưa rất lớn khác bao gồm Độc Lập (110.2 mm), Sín Chải (Tủa Chùa, Điện Biên) (101.6 mm) và Tân Pheo (100.8 mm).
+*   **Lượng mưa lớn nhất:** Ghi nhận là **186.4 mm** tại trạm **Mường Mươn** (thuộc khu vực có cảnh báo tại xã Mường Mươn, huyện Mường Chà, tỉnh Điện Biên).
+*   **Mức độ cảnh báo:** Toàn hệ thống đang có **2 cảnh báo nguy cơ Rất cao** và **30 cảnh báo nguy cơ Cao**, chủ yếu liên quan đến nguy cơ sạt lở đất và lũ quét.
 
----
-
-**Các khu vực rủi ro cao cần đặc biệt lưu ý:**
-
-Dựa trên các cảnh báo rủi ro sạt lở đất và lũ quét được ghi nhận, các địa điểm sau đây đang đối mặt với nguy cơ **Rất cao** và **Cao**:
+**Địa điểm rủi ro cao cần đặc biệt lưu ý:**
 
 *   **Nguy cơ Rất cao:**
-    *   **Tỉnh Điện Biên:** Xã Mường Mươn (Huyện Mường Chà) – với lượng mưa lên đến 203.1 mm theo cảnh báo.
+    *   **Xã Mường Mươn**, (thuộc các khu vực Mường Pồn, Na Sang) **huyện Mường Chà, tỉnh Điện Biên**. Khu vực này ghi nhận lượng mưa rất lớn và có nguy cơ sạt lở đất, lũ quét ở mức độ Rất cao.
 
-*   **Nguy cơ Cao:**
-    *   **Tỉnh Điện Biên:** Xã Hừa Ngài (Mường Chà), Xã Quảng Lâm (Mường Nhé), Xã Xín Chải (Tủa Chùa), Xã Huổi Lèng (Mường Chà), Xã Bum Tở (Mường Tè).
-    *   **Tỉnh Phú Thọ:** Xã Cao Sơn (Huyện Lương Sơn), Xã Độc Lập (Thành phố Hòa Bình), Xã Lâm Sơn (Huyện Lương Sơn), Xã Tân Pheo (Huyện Đà Bắc).
-    *   **Tỉnh Lai Châu:** Xã Bum Tở (Huyện Mường Tè), Xã Nậm Cuổi (Huyện Sìn Hồ).
-    *   **Tỉnh Lào Cai:** Xã Thịnh Hưng (Huyện Yên Bình).
-    *   **Tỉnh Thái Nguyên:** Xã Mỹ Phương (Huyện Ba Bể), Xã Đồng Lạc (Huyện Chợ Đồn).
-
----
+*   **Nguy cơ Cao (bao gồm các tỉnh và địa điểm trọng điểm):**
+    *   **Điện Biên:** Các xã Sín Chải (Tủa Chùa), Xá Tổng, Huổi Lèng, Hừa Ngài, Na Cô Sa (Nậm Pồ), Pú Xi (Tuần Giáo).
+    *   **Lai Châu:** Các xã Nậm Cuổi (huyện Sìn Hồ), Bum Tở (huyện Mường Tè), Pa Ủ, Xã Mường Tè, Nậm Hàng 2 (Nậm Nhùn), Nậm Hăn 2, Nậm Cuổi 2.
+    *   **Bắc Ninh:** Các xã Phì Điền, Kim Sơn, Biển Động, Đồng Cốc thuộc huyện Lục Ngạn.
+    *   **Phú Thọ:** Các xã Cao Sơn (huyện Lương Sơn), Độc Lập (TP.Hòa Bình), Lâm Sơn (huyện Lương Sơn), Tân Pheo (huyện Đà Bắc) – (Lưu ý: theo dữ liệu cảnh báo, các huyện Lương Sơn, TP.Hòa Bình, Đà Bắc được gán thuộc tỉnh Phú Thọ).
+    *   **Lào Cai:** Xã Thịnh Hưng (huyện Yên Bình).
+    *   **Thái Nguyên:** Xã Mỹ Phương (Ba Bể), Xã Đồng Lạc (Chợ Đồn).
+    *   **Yên Bái:** Xã Chấn Thịnh.
+    *   **Lạng Sơn:** Xã Tân Yên.
 
 **Khuyến nghị:**
 
-Đây là bản tin phân tích tình hình dựa trên dữ liệu thu thập được. Để đảm bảo an toàn và nắm bắt thông tin chính xác nhất, quý vị và bà con tại các khu vực nêu trên, đặc biệt là các vùng núi cao, cần **thường xuyên kiểm tra và cập nhật thông tin từ các cơ quan chức năng chính thức** như Ban Chỉ đạo Quốc gia về Phòng, chống thiên tai, Trung tâm Dự báo Khí tượng Thủy văn Quốc gia và chính quyền địa phương.
+Chúng tôi khuyến nghị người dân tại các khu vực nêu trên và các vùng lân cận cần đặc biệt chú ý theo dõi sát sao các bản tin cảnh báo từ Đài Khí tượng Thủy văn Quốc gia, chính quyền địa phương và các kênh thông tin chính thức khác. Thực hiện các biện pháp phòng ngừa cần thiết để đảm bảo an toàn cho bản thân và gia đình, đặc biệt là cảnh giác với nguy cơ lũ quét, sạt lở đất tại các vùng núi, sườn dốc và ven sông suối.
 
-**Lưu ý quan trọng:** Bản tin này không phải là một cảnh báo pháp lý và không thay thế cho các thông báo chính thức từ các cơ quan nhà nước có thẩm quyền.
+**Lưu ý quan trọng:** Bản tin này cung cấp thông tin phân tích dựa trên dữ liệu hiện có và không phải là một cảnh báo pháp lý.
