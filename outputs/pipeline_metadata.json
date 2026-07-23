@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "query_time": "2026-07-23 21:00:00",
-  "collected_at": "2026-07-23T21:32:00+07:00",
+  "query_time": "2026-07-24 02:00:00",
+  "collected_at": "2026-07-24T02:46:07+07:00",
   "forecast_hours": 6,
   "rainfall_rows": 2586,
-  "warning_rows": 175,
+  "warning_rows": 121,
   "summary_engine": "gemini-2.5-flash",
   "email_configured": true,
   "email_sent": true

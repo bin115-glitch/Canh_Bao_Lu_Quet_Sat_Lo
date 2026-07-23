@@ -1,28 +1,27 @@
-**Bản tin Cập nhật Phân tích Thiên tai Việt Nam**
-**Thời điểm cập nhật:** 21:32 ngày 23 tháng 7 năm 2026
+**BẢN TIN PHÂN TÍCH THIÊN TAI VIỆT NAM**
+**Cập nhật lúc 02:46 ngày 24/07/2026**
 
-Kính gửi Quý vị,
+Kính gửi quý vị,
 
-Theo dữ liệu phân tích mới nhất, tính đến 21:32 ngày 23 tháng 7 năm 2026, chúng tôi ghi nhận tổng cộng **175 cảnh báo thiên tai** trên toàn quốc, với 2586 trạm đo mưa đang hoạt động.
+Thực hiện nhiệm vụ phân tích thiên tai, chúng tôi xin cung cấp thông tin tổng hợp về tình hình mưa và cảnh báo sạt lở, lũ quét trên cả nước dựa trên dữ liệu cập nhật.
 
 **Điểm đáng chú ý:**
-*   Mức cảnh báo **Rất cao** đã được phát ra cho **5 khu vực**, và **21 khu vực** khác đang ở mức cảnh báo **Cao**.
-*   Lượng mưa cao nhất trong kỳ báo cáo là **66.0 mm** tại trạm **Tân Lập 1** (tọa độ khoảng 20.942, 104.622). Ngoài ra, các trạm Bù Đốp (53.8mm) và Thanh Sơn 1 (53.4mm) cũng ghi nhận lượng mưa lớn.
 
-**Các địa điểm rủi ro cao đặc biệt cần chú ý:**
+*   **Tình hình mưa:** Hiện có 2586 trạm đo mưa đang hoạt động. Lượng mưa lớn nhất được ghi nhận là **77.0 mm** tại trạm Phước Cát 2 - Cát Tiên. Một số khu vực khác cũng ghi nhận lượng mưa lớn trên 50mm, cho thấy nguy cơ mưa to cục bộ.
+*   **Cảnh báo sạt lở/lũ quét:** Toàn quốc ghi nhận tổng cộng **121 cảnh báo** liên quan đến sạt lở đất và lũ quét. Trong đó, có **2 cảnh báo ở mức RẤT CAO** và **6 cảnh báo ở mức CAO**, cho thấy tình hình nguy hiểm tại một số địa phương. Các cảnh báo này có hiệu lực dự kiến trong 6 giờ tiếp theo tính từ 02:00 ngày 24/07/2026.
 
-**Mức RẤT CAO (nguy cơ sạt lở đất/lũ quét rất cao):**
-*   **Điện Biên:** Xã Mường Mươn (huyện Mường Chà).
-*   **Phú Thọ:** Xã Dân Hòa (P. Kỳ Sơn, TP.Hòa Bình), Xã Lâm Sơn (Lương Sơn, huyện Lương Sơn), Xã Mông Hóa (P. Kỳ Sơn, TP.Hòa Bình).
+**Địa điểm rủi ro cao cần đặc biệt chú ý:**
 
-**Mức CAO (nguy cơ sạt lở đất/lũ quét cao):**
-*   **Sơn La:** Thị trấn Mộc Châu (TX.Mộc Châu).
-*   **Phú Thọ:** Phường Kỳ Sơn (TP.Hòa Bình), Xã Cao Sơn (huyện Lương Sơn), Xã Độc Lập (TP.Hòa Bình).
-*   **Nghệ An:** Xã Thanh Hà (huyện Thanh Chương), Xã Hội Sơn (huyện Anh Sơn).
-*   **Lai Châu:** Xã Nậm Cuổi (huyện Sìn Hồ).
+*   **Mức RẤT CAO (Nguy cơ sạt lở đất và lũ quét RẤT CAO):**
+    *   **Xã Mường Mươn, huyện Mường Chà, tỉnh Điện Biên** (lượng mưa dự báo/quan trắc: 157.2 mm)
+*   **Mức CAO (Nguy cơ sạt lở đất và lũ quét CAO):**
+    *   **Xã Bắc Sơn, TP. Móng Cái, tỉnh Quảng Ninh** (lượng mưa dự báo/quan trắc: 118.89 mm)
+    *   **Xã Hội Sơn, huyện Anh Sơn, tỉnh Nghệ An** (lượng mưa dự báo/quan trắc: 113.0 mm)
+    *   **Xã Nậm Cuổi, huyện Sìn Hồ, tỉnh Lai Châu** (lượng mưa dự báo/quan trắc: 109.2 mm)
+    *   **Thị trấn Ia Kha, huyện Ia Grai, tỉnh Gia Lai** (lượng mưa dự báo/quan trắc: 93.97 mm)
 
 **Khuyến nghị:**
-Người dân sinh sống tại các khu vực được cảnh báo, đặc biệt là các vùng có nguy cơ sạt lở đất và lũ quét, cần hết sức cảnh giác. Chủ động theo dõi sát sao tình hình thời tiết, chuẩn bị các phương án ứng phó, và sẵn sàng sơ tán theo hướng dẫn của chính quyền địa phương khi có yêu cầu. Tránh đi lại qua các khu vực sông, suối, hầm chui, hoặc các tuyến đường có nguy cơ ngập úng, sạt lở.
 
-**Lưu ý quan trọng:**
-Đây là bản tin phân tích dựa trên dữ liệu hiện có và không có giá trị như một cảnh báo pháp lý chính thức. Để nhận được thông tin cảnh báo chính xác và kịp thời nhất, đề nghị Quý vị và các cơ quan chức năng kiểm tra và theo dõi các thông báo từ các nguồn chính thức của Chính phủ, Đài Khí tượng Thủy văn Quốc gia Việt Nam, và chính quyền địa phương.
+Chúng tôi khuyến nghị người dân tại các khu vực nêu trên và các vùng lân cận cần đặc biệt cảnh giác trước nguy cơ sạt lở đất và lũ quét. Thường xuyên theo dõi thông tin từ các cơ quan chức năng, đài khí tượng thủy văn địa phương và các kênh thông tin chính thống để cập nhật diễn biến tình hình và có biện pháp ứng phó kịp thời, đặc biệt là các khuyến cáo về sơ tán hoặc di chuyển an toàn.
+
+**Lưu ý quan trọng:** Bản tin này chỉ mang tính chất tham khảo dựa trên dữ liệu được cung cấp tại thời điểm phân tích và không phải là một cảnh báo pháp lý chính thức. Mọi quyết định ứng phó cần dựa trên thông tin chính thức từ cơ quan quản lý nhà nước về phòng chống thiên tai.
