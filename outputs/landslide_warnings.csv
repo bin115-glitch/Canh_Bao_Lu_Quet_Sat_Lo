@@ -1,211 +1,221 @@
 ﻿record_type,record_id,collected_at,observed_at,forecast_hours,name,commune,district,province,latitude,longitude,rainfall_mm,risk_level,flash_flood_risk,color,source
-landslide_warning,nchmf-30052112-5923,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Mường Mít,Mường Than,Than Uyên,Lai Châu,22.01,103.834,54.02,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052114-2499,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Búng Lao,Búng Lao,Mường Ảng,Điện Biên,21.528,103.313,70.84,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052116-2558,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Chiềng Sinh,Chiềng Sinh,Tuần Giáo,Điện Biên,21.55,103.364,69.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052116-2558,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Chiềng Sinh,Búng Lao,Tuần Giáo,Điện Biên,21.55,103.364,69.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052115-11626,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Mường Tùng,Mường Tùng,Mường Chà,Điện Biên,21.981,103.061,53.77,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052117-2563,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Nà Sáy,Chiềng Sinh,Tuần Giáo,Điện Biên,21.578,103.354,62.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052113-2462,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Pa Thơm,Thanh Yên,Điện Biên,Điện Biên,21.306,102.927,63.15,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052118-2573,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Ta Ma,Pú Nhung,Tuần Giáo,Điện Biên,21.727,103.529,60.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052119-8872,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Pá Ma Pha Khinh,Mường Giôn,Quỳnh Nhai,Sơn La,21.767,103.602,88.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052120-8796,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tân Lập,Tân Yên,TX.Mộc Châu,Sơn La,20.955,104.604,63.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052128-7590,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Bạch Hạc,P. Thanh Miếu,TP.Việt Trì,Phú Thọ,21.283,105.445,91.593,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052129-7594,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Gia Cẩm,P. Việt Trì,TP.Việt Trì,Phú Thọ,21.319,105.394,89.237,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052130-7598,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Minh Nông,P. Việt Trì,TP.Việt Trì,Phú Thọ,21.301,105.371,105.219,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052131-7599,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Minh Phương,P. Nông Trang,TP.Việt Trì,Phú Thọ,21.329,105.367,77.248,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052132-7600,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Nông Trang,P. Việt Trì,TP.Việt Trì,Phú Thọ,21.33,105.382,78.396,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052132-7600,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Nông Trang,P. Nông Trang,TP.Việt Trì,Phú Thọ,21.33,105.382,78.396,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052133-7608,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Thanh Miếu,P. Thanh Miếu,TP.Việt Trì,Phú Thọ,21.312,105.424,,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052133-7608,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Thanh Miếu,P. Việt Trì,TP.Việt Trì,Phú Thọ,21.312,105.424,,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052134-7605,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Thọ Sơn,P. Thanh Miếu,TP.Việt Trì,Phú Thọ,21.302,105.413,86.642,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052135-7609,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Tiên Cát,P. Việt Trì,TP.Việt Trì,Phú Thọ,21.309,105.403,87.297,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052135-7609,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Tiên Cát,P. Thanh Miếu,TP.Việt Trì,Phú Thọ,21.309,105.403,87.297,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052136-7611,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Vân Cơ,P. Nông Trang,TP.Việt Trì,Phú Thọ,21.339,105.374,67.396,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052136-7611,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Vân Cơ,P. Vân Phú,TP.Việt Trì,Phú Thọ,21.339,105.374,67.396,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052137-7612,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Vân Phú,P. Vân Phú,TP.Việt Trì,Phú Thọ,21.352,105.358,66.29,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052146-10946,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Thổ Tang,Thổ Tang,Vĩnh Tường,Phú Thọ,21.254,105.486,111.65,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052147-10942,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Tứ Trưng,Vĩnh Tường,Vĩnh Tường,Phú Thọ,21.208,105.525,72.012,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052148-10954,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Vĩnh Tường,Vĩnh Tường,Vĩnh Tường,Phú Thọ,21.221,105.506,93.365,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052149-10929,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã An Tường,Vĩnh Phú,Vĩnh Tường,Phú Thọ,21.193,105.475,97.469,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052150-10931,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bình Dương,Vĩnh Tường,Vĩnh Tường,Phú Thọ,21.246,105.524,60.93,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052151-10930,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bồ Sao,Vĩnh Thành,Vĩnh Tường,Phú Thọ,21.278,105.454,78.61,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052152-10932,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Cao Đại,Vĩnh Thành,Vĩnh Tường,Phú Thọ,21.254,105.457,95.433,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052122-7446,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Cao Xá,Bản Nguyên,Lâm Thao,Phú Thọ,21.299,105.337,55.467,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052138-7592,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Chu Hóa,Hy Cương,TP.Việt Trì,Phú Thọ,21.343,105.309,50.48,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052153-10934,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Đại Đồng,Vĩnh Hưng,Vĩnh Tường,Phú Thọ,21.269,105.511,67.938,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052144-7480,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hà Thạch,P. Phong Châu,TX.Phú Thọ,Phú Thọ,21.406,105.254,51.097,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052121-4935,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hương Nhượng,Lạc Sơn,Lạc Sơn,Phú Thọ,20.44,105.442,68.5,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052139-7596,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hy Cương,Hy Cương,TP.Việt Trì,Phú Thọ,21.37,105.325,63.222,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052124-4981,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Liên Sơn,Liên Sơn,Lương Sơn,Phú Thọ,20.797,105.591,61.06,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052154-10936,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Lũng Hoà,Vĩnh Thành,Vĩnh Tường,Phú Thọ,21.269,105.471,83.432,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052155-10937,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Lý Nhân,Vĩnh Phú,Vĩnh Tường,Phú Thọ,21.218,105.47,100.155,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052155-10937,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Lý Nhân,Vĩnh Thành,Vĩnh Tường,Phú Thọ,21.218,105.47,100.155,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052156-10938,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Nghĩa Hưng,Vĩnh Hưng,Vĩnh Tường,Phú Thọ,21.293,105.496,57.669,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052156-10938,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Nghĩa Hưng,Vĩnh An,Vĩnh Tường,Phú Thọ,21.293,105.496,57.669,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052157-10939,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Ngũ Kiên,Vĩnh Phú,Vĩnh Tường,Phú Thọ,21.196,105.529,83.031,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052158-10940,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phú Đa,Vĩnh Phú,Vĩnh Tường,Phú Thọ,21.181,105.52,94.633,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052145-7483,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phú Hộ,P. Phong Châu,TX.Phú Thọ,Phú Thọ,21.431,105.265,105.93,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052140-7601,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phượng Lâu,P. Vân Phú,TP.Việt Trì,Phú Thọ,21.357,105.388,55.856,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052127-11488,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Quang Tiến,Thịnh Minh,TP.Hòa Bình,Phú Thọ,20.964,105.413,50.3,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052127-11488,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Quang Tiến,P. Kỳ Sơn,TP.Hòa Bình,Phú Thọ,20.964,105.413,50.3,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052141-7602,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Sông Lô,P. Thanh Miếu,TP.Việt Trì,Phú Thọ,21.312,105.443,68.277,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052141-7602,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Sông Lô,Sơn Đông,TP.Việt Trì,Phú Thọ,21.312,105.443,68.277,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052159-10943,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tam Phúc,Vĩnh Tường,Vĩnh Tường,Phú Thọ,21.207,105.507,106.58,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052160-11470,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tân Phú,Vĩnh Thành,Vĩnh Tường,Phú Thọ,21.24,105.465,110.353,,Cao,,NCHMF
-landslide_warning,nchmf-30052161-10945,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tân Tiến,Vĩnh Hưng,Vĩnh Tường,Phú Thọ,21.275,105.489,82.461,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052161-10945,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tân Tiến,Vĩnh Thành,Vĩnh Tường,Phú Thọ,21.275,105.489,82.461,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052126-7518,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thạch Kiệt,Tân Sơn,Tân Sơn,Phú Thọ,21.257,104.977,56.64,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052162-10947,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thượng Trưng,Thổ Tang,Vĩnh Tường,Phú Thọ,21.23,105.481,90.709,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052142-7606,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thụy Vân,Hy Cương,TP.Việt Trì,Phú Thọ,21.328,105.347,85.22,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052142-7606,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thụy Vân,P. Nông Trang,TP.Việt Trì,Phú Thọ,21.328,105.347,85.22,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052123-7455,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tiên Kiên,Xuân Lũng,Lâm Thao,Phú Thọ,21.388,105.299,59.011,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052143-7610,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Trưng Vương,Sơn Đông,TP.Việt Trì,Phú Thọ,21.325,105.422,75.17,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052143-7610,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Trưng Vương,P. Việt Trì,TP.Việt Trì,Phú Thọ,21.325,105.422,75.17,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052163-10948,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tuân Chính,Thổ Tang,Vĩnh Tường,Phú Thọ,21.21,105.487,114.152,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052125-5014,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Vạn Mai,Mai Hạ,Mai Châu,Phú Thọ,20.586,105.042,85.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052164-10949,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Vân Xuân,Vĩnh Tường,Vĩnh Tường,Phú Thọ,21.23,105.538,68.557,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052165-10950,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Việt Xuân,Vĩnh Thành,Vĩnh Tường,Phú Thọ,21.293,105.462,73.86,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052165-10950,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Việt Xuân,Vĩnh Hưng,Vĩnh Tường,Phú Thọ,21.293,105.462,73.86,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052166-10951,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Vĩnh Ninh,Vĩnh Phú,Vĩnh Tường,Phú Thọ,21.166,105.532,98.255,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052167-10952,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Vĩnh Sơn,Vĩnh Hưng,Vĩnh Tường,Phú Thọ,21.246,105.502,84.192,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052167-10952,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Vĩnh Sơn,Thổ Tang,Vĩnh Tường,Phú Thọ,21.246,105.502,84.192,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052168-10953,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Vĩnh Thịnh,Vĩnh Phú,Vĩnh Tường,Phú Thọ,21.177,105.494,101.676,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052169-10955,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Vũ Di,Vĩnh Tường,Vĩnh Tường,Phú Thọ,21.232,105.516,79.651,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052170-10957,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Yên Lập,Vĩnh Thành,Vĩnh Tường,Phú Thọ,21.293,105.481,64.355,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052170-10957,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Yên Lập,Vĩnh Hưng,Vĩnh Tường,Phú Thọ,21.293,105.481,64.355,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052172-11029,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bản Công,Hạnh Phúc,Trạm Tấu,Lào Cai,21.454,104.337,62.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052173-11141,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Cảm Nhân,Cảm Nhân,Yên Bình,Lào Cai,21.991,104.971,135.77,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052171-10994,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Minh Tiến,Mường Lai,Lục Yên,Lào Cai,22.048,104.838,57.17,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052186-10644,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Lăng Can,Lâm Bình,Lâm Bình,Tuyên Quang,22.452,105.236,75.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052203-3844,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bản Ngò,Pà Vầy Sủ,Xín Mần,Tuyên Quang,22.642,104.456,55.09,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052184-10624,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bằng Cốc,Hàm Yên,Hàm Yên,Tuyên Quang,21.974,105.007,89.53,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052187-10641,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bình An,Bình An,Lâm Bình,Tuyên Quang,22.441,105.17,88.42,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052193-10649,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Côn Lôn,Yên Hoa,Na Hang,Tuyên Quang,22.514,105.435,51.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052193-10649,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Côn Lôn,Côn Lôn,Na Hang,Tuyên Quang,22.514,105.435,51.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052205-3864,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Du Già,Du Già,Yên Minh,Tuyên Quang,22.923,105.205,81.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052180-10599,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hà Lang,Tân An,Chiêm Hóa,Tuyên Quang,22.236,105.125,161.63,Rất cao,Rất cao,,NCHMF
-landslide_warning,nchmf-30052194-10651,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hồng Thái,Hồng Thái,Na Hang,Tuyên Quang,22.534,105.573,50.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052194-10651,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hồng Thái,Yên Hoa,Na Hang,Tuyên Quang,22.534,105.573,50.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052195-10652,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Khau Tinh,Yên Hoa,Na Hang,Tuyên Quang,22.441,105.422,52.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052188-10643,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Khuôn Hà,Thượng Lâm,Lâm Bình,Tuyên Quang,22.554,105.297,89.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052201-3825,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Linh Hồ,Linh Hồ,Vị Xuyên,Tuyên Quang,22.699,105.081,56.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052206-3869,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Lũng Hồ,Đường Thượng,Yên Minh,Tuyên Quang,22.985,105.245,77.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052207-3871,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Mậu Long,Sủng Máng,Yên Minh,Tuyên Quang,23.073,105.293,53.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052207-3871,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Mậu Long,Mậu Duệ,Yên Minh,Tuyên Quang,23.073,105.293,53.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052174-3689,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Minh Ngọc,Minh Ngọc,Bắc Mê,Tuyên Quang,22.745,105.172,61.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052174-3689,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Minh Ngọc,Ngọc Đường,Bắc Mê,Tuyên Quang,22.745,105.172,61.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052189-10606,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Minh Quang,Minh Quang,Lâm Bình,Tuyên Quang,22.345,105.151,141.4,Rất cao,Rất cao,,NCHMF
-landslide_warning,nchmf-30052204-3850,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Nấm Dẩn,Nấm Dẩn,Xín Mần,Tuyên Quang,22.598,104.495,66.88,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052185-3757,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Nậm Khòa,Hồ Thầu,Hoàng Su Phì,Tuyên Quang,22.57,104.669,56.14,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052208-3874,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Ngam La,Yên Minh,Yên Minh,Tuyên Quang,23.048,105.168,59.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052208-3874,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Ngam La,Mậu Duệ,Yên Minh,Tuyên Quang,23.048,105.168,59.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052175-3692,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phú Nam,Đường Hồng,Bắc Mê,Tuyên Quang,22.727,105.431,76.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052190-10645,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phúc Yên,Lâm Bình,Lâm Bình,Tuyên Quang,22.595,105.187,97.8,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052178-3709,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tân Lập,Tân Quang,Bắc Quang,Tuyên Quang,22.545,104.834,55.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052181-10613,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tân Mỹ,Tân Mỹ,Chiêm Hóa,Tuyên Quang,22.277,105.186,50.044,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052198-3801,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thái An,Lùng Tám,Quản Bạ,Tuyên Quang,22.98,105.096,62.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052196-10658,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thượng Giáp,Thượng Nông,Na Hang,Tuyên Quang,22.609,105.5,80.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052191-10647,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thượng Lâm,Thượng Lâm,Lâm Bình,Tuyên Quang,22.477,105.34,101.4,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052199-3811,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tiên Nguyên,Hồ Thầu,Quang Bình,Tuyên Quang,22.501,104.685,67.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052199-3811,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tiên Nguyên,Tiên Nguyên,Quang Bình,Tuyên Quang,22.501,104.685,67.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052182-10615,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tri Phú,Tri Phú,Chiêm Hóa,Tuyên Quang,22.023,105.374,54.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052183-10616,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Trung Hà,Trung Hà,Chiêm Hóa,Tuyên Quang,22.289,105.089,70.41,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052202-3839,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tùng Bá,Tùng Bá,Vị Xuyên,Tuyên Quang,22.899,105.099,53.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052179-3716,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Việt Vinh,Bắc Quang,Bắc Quang,Tuyên Quang,22.449,104.86,52.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052192-10648,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Xuân Lập,Lâm Bình,Lâm Bình,Tuyên Quang,22.527,105.155,79.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052200-3815,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Xuân Minh,Thông Nguyên,Quang Bình,Tuyên Quang,22.501,104.754,136.6,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052176-3695,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Yên Định,Ngọc Đường,Bắc Mê,Tuyên Quang,22.798,105.115,67.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052197-10660,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Yên Hoa,Yên Hoa,Na Hang,Tuyên Quang,22.528,105.516,68.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052177-3696,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Yên Phong,Bắc Mê,Bắc Mê,Tuyên Quang,22.776,105.408,56.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052217-9538,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Chợ Chu,Định Hóa,Định Hóa,Thái Nguyên,21.909,105.646,51.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052217-9538,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Chợ Chu,Phượng Tiến,Định Hóa,Thái Nguyên,21.909,105.646,51.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052225-9612,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Đu,Phú Lương,Phú Lương,Thái Nguyên,21.732,105.705,91.0,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052226-9613,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Giang Tiên,Phú Lương,Phú Lương,Thái Nguyên,21.676,105.733,65.172,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052210-9525,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Quân Chu,Quân Chu,Đại Từ,Thái Nguyên,21.471,105.682,123.0,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052219-9566,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Sông Cầu,Quang Sơn,Đồng Hỷ,Thái Nguyên,21.678,105.868,51.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052219-9566,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Sông Cầu,Đồng Hỷ,Đồng Hỷ,Thái Nguyên,21.678,105.868,51.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052219-9566,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Sông Cầu,Văn Hán,Đồng Hỷ,Thái Nguyên,21.678,105.868,51.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052220-561,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bộc Bố,Bằng Thành,Pác Nặm,Thái Nguyên,22.626,105.677,82.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052211-9506,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Cát Nê,Quân Chu,Đại Từ,Thái Nguyên,21.52,105.681,58.518,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052221-562,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Cổ Linh,Cao Minh,Pác Nặm,Thái Nguyên,22.563,105.623,57.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052222-564,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Công Bằng,Cao Minh,Pác Nặm,Thái Nguyên,22.613,105.568,58.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052212-9507,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Cù Vân,Vô Tranh,Đại Từ,Thái Nguyên,21.636,105.728,101.8,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052212-9507,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Cù Vân,An Khánh,Đại Từ,Thái Nguyên,21.636,105.728,101.8,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052223-565,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Giáo Hiệu,Bằng Thành,Pác Nặm,Thái Nguyên,22.625,105.611,89.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052223-565,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Giáo Hiệu,Cao Minh,Pác Nặm,Thái Nguyên,22.625,105.611,89.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052213-9509,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hà Thượng,Phú Lạc,Đại Từ,Thái Nguyên,21.637,105.689,50.053,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052213-9509,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hà Thượng,An Khánh,Đại Từ,Thái Nguyên,21.637,105.689,50.053,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052214-9513,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Ký Phú,Vạn Phú,Đại Từ,Thái Nguyên,21.54,105.646,59.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052224-567,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Nhạn Môn,Bằng Thành,Pác Nặm,Thái Nguyên,22.664,105.622,99.2,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052227-9616,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phấn Mễ,Phú Lương,Phú Lương,Thái Nguyên,21.693,105.707,83.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052227-9616,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phấn Mễ,Phú Lạc,Phú Lương,Thái Nguyên,21.693,105.707,83.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052218-9547,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phú Tiến,Trung Hội,Định Hóa,Thái Nguyên,21.824,105.666,66.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052215-9527,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tân Linh,Phú Lạc,Đại Từ,Thái Nguyên,21.684,105.653,52.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052216-9528,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tân Thái,Đại Phúc,Đại Từ,Thái Nguyên,21.604,105.689,121.2,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052209-11256,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thanh Thịnh,Thanh Thịnh,Chợ Mới,Thái Nguyên,21.947,105.812,98.4,,Cao,,NCHMF
-landslide_warning,nchmf-30052228-9621,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Yên Đổ,Yên Trạch,Phú Lương,Thái Nguyên,21.8,105.701,59.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052229-1630,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hưng Đạo,Hưng Đạo,Bảo Lạc,Cao Bằng,22.816,105.711,51.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052230-1632,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Huy Giáp,Huy Giáp,Bảo Lạc,Cao Bằng,22.816,105.771,56.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052231-1642,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Mông Ân,Bảo Lâm,Bảo Lâm,Cao Bằng,22.8,105.538,56.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052231-1642,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Mông Ân,Yên Thổ,Bảo Lâm,Cao Bằng,22.8,105.538,56.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052232-1649,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thái Học,Yên Thổ,Bảo Lâm,Cao Bằng,22.745,105.515,72.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052233-1651,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Vĩnh Phong,Bảo Lâm,Bảo Lâm,Cao Bằng,22.837,105.591,65.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052234-1652,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Vĩnh Quang,Lý Bôn,Bảo Lâm,Cao Bằng,22.888,105.595,68.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052235-5786,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Na Sầm,Na Sầm,Văn Lãng,Lạng Sơn,22.054,106.616,67.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052236-11596,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bắc Việt,Văn Lãng,Văn Lãng,Lạng Sơn,22.102,106.564,62.3,,Trung bình,,NCHMF
-landslide_warning,nchmf-30052236-11596,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bắc Việt,Na Sầm,Văn Lãng,Lạng Sơn,22.102,106.564,62.3,,Trung bình,,NCHMF
-landslide_warning,nchmf-30052237-8345,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Cẩm Bình,P. Cẩm Phả,TP.Cẩm Phả,Quảng Ninh,21.004,107.286,58.303,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052238-8350,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Cẩm Tây,P. Mông Dương,TP.Cẩm Phả,Quảng Ninh,21.025,107.285,53.926,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052238-8350,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Cẩm Tây,P. Cẩm Phả,TP.Cẩm Phả,Quảng Ninh,21.025,107.285,53.926,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052239-8351,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Cẩm Thạch,P. Quang Hanh,TP.Cẩm Phả,Quảng Ninh,21.008,107.25,55.546,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052240-8354,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Cẩm Thành,P. Cẩm Phả,TP.Cẩm Phả,Quảng Ninh,21.01,107.278,65.378,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052241-8353,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Cẩm Thủy,P. Quang Hanh,TP.Cẩm Phả,Quảng Ninh,21.01,107.264,64.239,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052242-8355,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Phường Cẩm Trung,P. Cẩm Phả,TP.Cẩm Phả,Quảng Ninh,21.011,107.272,66.66,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052246-8444,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bắc Sơn,Hải Sơn,TP.Móng Cái,Quảng Ninh,21.604,107.864,70.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052247-8507,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Đoàn Kết,Đặc khu Vân Đồn,Vân Đồn,Quảng Ninh,21.097,107.41,64.63,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052243-8358,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Dương Huy,P. Mông Dương,TP.Cẩm Phả,Quảng Ninh,21.058,107.239,66.53,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052244-8437,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Lê Lợi,P. Hoành Bồ,TP.Hạ Long,Quảng Ninh,21.014,107.028,63.98,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052245-8443,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Vũ Oai,Thống Nhất,TP.Hạ Long,Quảng Ninh,21.086,107.146,75.17,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052248-6664,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bình Sơn,Thành Bình Thọ,Anh Sơn,Nghệ An,19.045,105.046,86.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052252-6694,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Châu Khê,Châu Khê,Con Cuông,Nghệ An,18.993,104.668,76.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052256-6933,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Diên Lãm,Hùng Chân,Quỳ Châu,Nghệ An,19.4,104.948,57.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052249-6670,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hoa Sơn,Vĩnh Tường,Anh Sơn,Nghệ An,18.938,105.039,63.798,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052250-6669,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hội Sơn,Anh Sơn,Anh Sơn,Nghệ An,18.92,105.055,113.0,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052250-6669,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Hội Sơn,Vĩnh Tường,Anh Sơn,Nghệ An,18.92,105.055,113.0,Cao,Cao,,NCHMF
-landslide_warning,nchmf-30052253-6701,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Môn Sơn,Môn Sơn,Con Cuông,Nghệ An,18.879,104.844,79.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052257-6949,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Nam Sơn,Mường Chọng,Quỳ Hợp,Nghệ An,19.248,105.026,64.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052258-7002,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phú Sơn,Nghĩa Hành,Tân Kỳ,Nghệ An,19.034,105.104,62.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052258-7002,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phú Sơn,Tân An,Tân Kỳ,Nghệ An,19.034,105.104,62.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052258-7002,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phú Sơn,Anh Sơn,Tân Kỳ,Nghệ An,19.034,105.104,62.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052258-7002,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phú Sơn,Tiên Đồng,Tân Kỳ,Nghệ An,19.034,105.104,62.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052254-6702,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thạch Ngàn,Mậu Thạch,Con Cuông,Nghệ An,19.124,104.989,70.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052254-6702,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thạch Ngàn,Thành Bình Thọ,Con Cuông,Nghệ An,19.124,104.989,70.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052259-7046,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thanh Mai,Bích Hào,Thanh Chương,Nghệ An,18.625,105.366,52.13,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052251-6681,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thành Sơn,Thành Bình Thọ,Anh Sơn,Nghệ An,19.055,104.999,51.181,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052255-6921,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tiền Phong,Tiền Phong,Quế Phong,Nghệ An,19.684,104.967,51.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052262-11581,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Trung Phước,Nông Sơn,Quế Sơn,TP. Đà Nẵng,15.724,108.055,55.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052261-8053,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tam Lộc,Tây Hồ,Phú Ninh,TP. Đà Nẵng,15.576,108.355,50.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052263-8142,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Tiên Phong,Tiên Phước,Tiên Phước,TP. Đà Nẵng,15.528,108.352,50.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052260-7909,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Trà Kót,Trà Liên,Bắc Trà My,TP. Đà Nẵng,15.349,108.403,63.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052264-8261,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Di Lăng,Sơn Hà,Sơn Hà,Quảng Ngãi,15.068,108.476,56.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052265-8263,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Sơn Bao,Sơn Hà,Sơn Hà,Quảng Ngãi,15.058,108.392,55.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052266-8265,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Sơn Giang,Sơn Linh,Sơn Hà,Quảng Ngãi,15.04,108.546,51.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052267-8292,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Sơn Mùa,Sơn Tây Thượng,Sơn Tây,Quảng Ngãi,15.041,108.323,50.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052268-8307,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Trà Hiệp,Thanh Bồng,Trà Bồng,Quảng Ngãi,15.276,108.405,53.4,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052269-8298,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Trà Phong,Tây Trà,Trà Bồng,Quảng Ngãi,15.179,108.359,65.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052270-11379,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Trà Tây,Tây Trà Bồng,Trà Bồng,Quảng Ngãi,15.126,108.418,55.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052271-8301,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Trà Thanh,Thanh Bồng,Trà Bồng,Quảng Ngãi,15.264,108.336,52.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052272-8303,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Trà Xinh,Tây Trà,Trà Bồng,Quảng Ngãi,15.124,108.32,53.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052274-2694,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Ia Kha,Gào,Ia Grai,Gia Lai,13.966,107.844,71.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052274-2694,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Ia Kha,Ia Grai,Ia Grai,Gia Lai,13.966,107.844,71.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052273-985,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Ân Tường Tây,Ân Tường,Hoài Ân,Gia Lai,14.275,108.932,52.9,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052275-5942,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã B' Lá,Bảo Lâm 4,Bảo Lâm,Lâm Đồng,11.715,107.755,53.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052279-2026,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Đắk Sin,Quảng Tín,Đắk R'Lấp,Lâm Đồng,11.87,107.496,54.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052276-5957,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Đồng Nai Thượng,Cát Tiên 3,Đạ Huoai,Lâm Đồng,11.747,107.448,65.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052277-5961,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Nam Ninh,Cát Tiên,Đạ Huoai,Lâm Đồng,11.616,107.407,53.61,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052278-5963,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Phước Cát 2,Cát Tiên 2,Đạ Huoai,Lâm Đồng,11.68,107.323,78.2,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052280-1216,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Thị trấn Đức Phong,Bù Đăng,Bù Đăng,Đồng Nai,11.807,107.235,50.0,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052281-1213,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bom Bo,Đak Nhau,Bù Đăng,Đồng Nai,11.902,107.141,60.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052281-1213,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Bom Bo,Bom Bo,Bù Đăng,Đồng Nai,11.902,107.141,60.8,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052283-2132,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thanh Sơn,Thanh Sơn,Định Quán,Đồng Nai,11.294,107.249,53.6,Trung bình,Trung bình,,NCHMF
-landslide_warning,nchmf-30052282-1211,2026-07-24T10:44:05+07:00,2026-07-24T10:00:00+07:00,6,Xã Thiện Hưng,Thiện Hưng,Bù Đốp,Đồng Nai,12.005,106.773,54.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063086-5835,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Mường Tè,Bum Tở,Mường Tè,Lai Châu,22.38,102.809,51.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063090-5844,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hua Bun,Hua Bum,Nậm Nhùn,Lai Châu,22.37,102.987,55.48,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063087-5832,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Ka Lăng,Pa Ủ,Mường Tè,Lai Châu,22.628,102.46,52.48,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063087-5832,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Ka Lăng,Thu Lũm,Mường Tè,Lai Châu,22.628,102.46,52.48,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063091-5923,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Mường Mít,Mường Than,Than Uyên,Lai Châu,22.01,103.834,53.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063088-5838,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Pa ủ,Pa Ủ,Mường Tè,Lai Châu,22.613,102.688,74.71,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063089-5841,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tà Tổng,Tà Tổng,Mường Tè,Lai Châu,22.301,102.612,98.25,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063092-2499,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Búng Lao,Búng Lao,Mường Ảng,Điện Biên,21.528,103.313,66.04,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063093-2558,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Chiềng Sinh,Chiềng Sinh,Tuần Giáo,Điện Biên,21.55,103.364,66.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063093-2558,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Chiềng Sinh,Búng Lao,Tuần Giáo,Điện Biên,21.55,103.364,66.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063094-2563,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Nà Sáy,Chiềng Sinh,Tuần Giáo,Điện Biên,21.578,103.354,55.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063095-2573,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Ta Ma,Pú Nhung,Tuần Giáo,Điện Biên,21.727,103.529,57.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063096-8872,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Pá Ma Pha Khinh,Mường Giôn,Quỳnh Nhai,Sơn La,21.767,103.602,85.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063097-8796,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tân Lập,Tân Yên,TX.Mộc Châu,Sơn La,20.955,104.604,63.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063111-10959,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Phường Đống Đa,P. Vĩnh Phúc,TP.Vĩnh Yên,Phú Thọ,21.305,105.604,50.184,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063100-7422,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Hạ Hoà,Hạ Hòa,Hạ Hoà,Phú Thọ,21.57,105.011,128.0,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063114-10946,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Thổ Tang,Thổ Tang,Vĩnh Tường,Phú Thọ,21.254,105.486,56.03,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063108-4957,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã An Bình,An Bình,Lạc Thủy,Phú Thọ,20.41,105.731,65.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063101-7413,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bằng Giã,Văn Lang,Hạ Hoà,Phú Thọ,21.536,104.992,61.156,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063102-7417,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Đại Phạm,Đan Thượng,Hạ Hoà,Phú Thọ,21.665,105.005,55.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063109-4962,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Đồng Tâm,Lạc Thủy,Lạc Thủy,Phú Thọ,20.465,105.82,75.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063103-7425,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hiền Lương,Hiền Lương,Hạ Hoà,Phú Thọ,21.579,104.915,74.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063107-4935,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hương Nhượng,Lạc Sơn,Lạc Sơn,Phú Thọ,20.44,105.442,74.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063116-5042,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hữu Lợi,Yên Trị,Yên Thủy,Phú Thọ,20.414,105.666,55.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063104-7429,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Lang Sơn,Văn Lang,Hạ Hoà,Phú Thọ,21.536,105.036,53.794,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063104-7429,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Lang Sơn,Vĩnh Chân,Hạ Hoà,Phú Thọ,21.536,105.036,53.794,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063105-7433,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Minh Hạc,Hạ Hòa,Hạ Hoà,Phú Thọ,21.552,105.023,70.011,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063105-7433,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Minh Hạc,Văn Lang,Hạ Hoà,Phú Thọ,21.552,105.023,70.011,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063105-7433,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Minh Hạc,Vĩnh Chân,Hạ Hoà,Phú Thọ,21.552,105.023,70.011,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063115-7618,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Mỹ Lương,Sơn Lương,Yên Lập,Phú Thọ,21.453,104.925,124.6,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063113-7483,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phú Hộ,P. Phong Châu,TX.Phú Thọ,Phú Thọ,21.431,105.265,92.7,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063110-11488,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Quang Tiến,P. Kỳ Sơn,TP.Hòa Bình,Phú Thọ,20.964,105.413,78.45,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063110-11488,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Quang Tiến,Thịnh Minh,TP.Hòa Bình,Phú Thọ,20.964,105.413,78.45,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063099-11235,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thạch Yên,Mường Thàng,Cao Phong,Phú Thọ,20.629,105.369,52.65,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063112-10965,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thanh Trù,Bình Nguyên,TP.Vĩnh Yên,Phú Thọ,21.283,105.613,50.744,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063112-10965,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thanh Trù,P. Vĩnh Yên,TP.Vĩnh Yên,Phú Thọ,21.283,105.613,50.744,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063098-7375,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tiên Lương,Tiên Lương,Cẩm Khê,Phú Thọ,21.481,105.012,55.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063098-7375,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tiên Lương,Văn Lang,Cẩm Khê,Phú Thọ,21.481,105.012,55.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063106-7438,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Văn Lang,Văn Lang,Hạ Hoà,Phú Thọ,21.519,105.0,81.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063119-11161,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Yên Bình,Thác Bà,Yên Bình,Lào Cai,21.751,104.974,78.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063119-11161,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Yên Bình,Yên Bình,Yên Bình,Lào Cai,21.751,104.974,78.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063117-11029,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bản Công,Hạnh Phúc,Trạm Tấu,Lào Cai,21.454,104.337,62.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063120-11141,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Cảm Nhân,Cảm Nhân,Yên Bình,Lào Cai,21.991,104.971,137.91,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063118-11066,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Chấn Thịnh,Chấn Thịnh,Văn Chấn,Lào Cai,21.493,104.849,64.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063121-11153,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thịnh Hưng,Thác Bà,Yên Bình,Lào Cai,21.71,105.003,51.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063122-11157,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Vĩnh Kiên,Thác Bà,Yên Bình,Lào Cai,21.773,105.028,51.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063135-10644,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Lăng Can,Lâm Bình,Lâm Bình,Tuyên Quang,22.452,105.236,75.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063153-3844,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bản Ngò,Pà Vầy Sủ,Xín Mần,Tuyên Quang,22.642,104.456,55.65,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063133-10624,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bằng Cốc,Hàm Yên,Hàm Yên,Tuyên Quang,21.974,105.007,93.8,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063136-10641,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bình An,Bình An,Lâm Bình,Tuyên Quang,22.441,105.17,88.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063143-10649,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Côn Lôn,Yên Hoa,Na Hang,Tuyên Quang,22.514,105.435,51.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063143-10649,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Côn Lôn,Côn Lôn,Na Hang,Tuyên Quang,22.514,105.435,51.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063155-3864,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Du Già,Du Già,Yên Minh,Tuyên Quang,22.923,105.205,81.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063129-10599,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hà Lang,Tân An,Chiêm Hóa,Tuyên Quang,22.236,105.125,161.8,Rất cao,Rất cao,,NCHMF
+landslide_warning,nchmf-30063144-10651,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hồng Thái,Hồng Thái,Na Hang,Tuyên Quang,22.534,105.573,50.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063144-10651,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hồng Thái,Yên Hoa,Na Hang,Tuyên Quang,22.534,105.573,50.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063145-10652,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Khau Tinh,Yên Hoa,Na Hang,Tuyên Quang,22.441,105.422,52.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063137-10643,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Khuôn Hà,Thượng Lâm,Lâm Bình,Tuyên Quang,22.554,105.297,89.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063151-3825,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Linh Hồ,Linh Hồ,Vị Xuyên,Tuyên Quang,22.699,105.081,56.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063156-3869,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Lũng Hồ,Đường Thượng,Yên Minh,Tuyên Quang,22.985,105.245,77.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063157-3871,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Mậu Long,Sủng Máng,Yên Minh,Tuyên Quang,23.073,105.293,53.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063157-3871,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Mậu Long,Mậu Duệ,Yên Minh,Tuyên Quang,23.073,105.293,53.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063123-3689,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Minh Ngọc,Minh Ngọc,Bắc Mê,Tuyên Quang,22.745,105.172,62.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063123-3689,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Minh Ngọc,Ngọc Đường,Bắc Mê,Tuyên Quang,22.745,105.172,62.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063138-10606,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Minh Quang,Minh Quang,Lâm Bình,Tuyên Quang,22.345,105.151,141.6,Rất cao,Rất cao,,NCHMF
+landslide_warning,nchmf-30063154-3850,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Nấm Dẩn,Nấm Dẩn,Xín Mần,Tuyên Quang,22.598,104.495,63.95,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063134-3757,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Nậm Khòa,Hồ Thầu,Hoàng Su Phì,Tuyên Quang,22.57,104.669,56.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063158-3874,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Ngam La,Yên Minh,Yên Minh,Tuyên Quang,23.048,105.168,59.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063158-3874,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Ngam La,Mậu Duệ,Yên Minh,Tuyên Quang,23.048,105.168,59.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063124-3692,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phú Nam,Đường Hồng,Bắc Mê,Tuyên Quang,22.727,105.431,76.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063139-10645,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phúc Yên,Lâm Bình,Lâm Bình,Tuyên Quang,22.595,105.187,99.2,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063127-3709,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tân Lập,Tân Quang,Bắc Quang,Tuyên Quang,22.545,104.834,55.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063130-10613,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tân Mỹ,Tân Mỹ,Chiêm Hóa,Tuyên Quang,22.277,105.186,51.466,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063148-3801,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thái An,Lùng Tám,Quản Bạ,Tuyên Quang,22.98,105.096,62.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063140-10646,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thổ Bình,Bình An,Lâm Bình,Tuyên Quang,22.381,105.199,50.282,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063146-10658,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thượng Giáp,Thượng Nông,Na Hang,Tuyên Quang,22.609,105.5,80.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063141-10647,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thượng Lâm,Thượng Lâm,Lâm Bình,Tuyên Quang,22.477,105.34,101.4,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063149-3811,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tiên Nguyên,Hồ Thầu,Quang Bình,Tuyên Quang,22.501,104.685,67.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063149-3811,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tiên Nguyên,Tiên Nguyên,Quang Bình,Tuyên Quang,22.501,104.685,67.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063131-10615,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tri Phú,Tri Phú,Chiêm Hóa,Tuyên Quang,22.023,105.374,54.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063132-10616,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Trung Hà,Trung Hà,Chiêm Hóa,Tuyên Quang,22.289,105.089,72.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063152-3839,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tùng Bá,Tùng Bá,Vị Xuyên,Tuyên Quang,22.899,105.099,53.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063128-3716,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Việt Vinh,Bắc Quang,Bắc Quang,Tuyên Quang,22.449,104.86,52.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063142-10648,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Xuân Lập,Lâm Bình,Lâm Bình,Tuyên Quang,22.527,105.155,80.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063150-3815,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Xuân Minh,Thông Nguyên,Quang Bình,Tuyên Quang,22.501,104.754,136.8,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063125-3695,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Yên Định,Ngọc Đường,Bắc Mê,Tuyên Quang,22.798,105.115,67.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063147-10660,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Yên Hoa,Yên Hoa,Na Hang,Tuyên Quang,22.528,105.516,68.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063126-3696,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Yên Phong,Bắc Mê,Bắc Mê,Tuyên Quang,22.776,105.408,56.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063169-9538,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Chợ Chu,Định Hóa,Định Hóa,Thái Nguyên,21.909,105.646,51.77,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063169-9538,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Chợ Chu,Phượng Tiến,Định Hóa,Thái Nguyên,21.909,105.646,51.77,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063178-9612,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Đu,Phú Lương,Phú Lương,Thái Nguyên,21.732,105.705,91.0,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063179-9613,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Giang Tiên,Phú Lương,Phú Lương,Thái Nguyên,21.676,105.733,65.686,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063161-9525,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Quân Chu,Quân Chu,Đại Từ,Thái Nguyên,21.471,105.682,126.0,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063171-9566,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Sông Cầu,Quang Sơn,Đồng Hỷ,Thái Nguyên,21.678,105.868,51.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063171-9566,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Sông Cầu,Đồng Hỷ,Đồng Hỷ,Thái Nguyên,21.678,105.868,51.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063171-9566,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Sông Cầu,Văn Hán,Đồng Hỷ,Thái Nguyên,21.678,105.868,51.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063173-561,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bộc Bố,Bằng Thành,Pác Nặm,Thái Nguyên,22.626,105.677,82.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063162-9506,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Cát Nê,Quân Chu,Đại Từ,Thái Nguyên,21.52,105.681,60.379,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063174-562,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Cổ Linh,Cao Minh,Pác Nặm,Thái Nguyên,22.563,105.623,57.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063175-564,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Công Bằng,Cao Minh,Pác Nặm,Thái Nguyên,22.613,105.568,58.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063163-9507,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Cù Vân,Vô Tranh,Đại Từ,Thái Nguyên,21.636,105.728,101.8,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063163-9507,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Cù Vân,An Khánh,Đại Từ,Thái Nguyên,21.636,105.728,101.8,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063159-457,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Đôn Phong,Phong Quang,Bạch Thông,Thái Nguyên,22.213,105.754,53.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063176-565,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Giáo Hiệu,Bằng Thành,Pác Nặm,Thái Nguyên,22.625,105.611,89.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063176-565,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Giáo Hiệu,Cao Minh,Pác Nặm,Thái Nguyên,22.625,105.611,89.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063164-9509,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hà Thượng,Phú Lạc,Đại Từ,Thái Nguyên,21.637,105.689,50.957,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063164-9509,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hà Thượng,An Khánh,Đại Từ,Thái Nguyên,21.637,105.689,50.957,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063165-9513,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Ký Phú,Vạn Phú,Đại Từ,Thái Nguyên,21.54,105.646,59.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063177-567,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Nhạn Môn,Bằng Thành,Pác Nặm,Thái Nguyên,22.664,105.622,99.2,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063180-9616,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phấn Mễ,Phú Lương,Phú Lương,Thái Nguyên,21.693,105.707,83.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063180-9616,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phấn Mễ,Phú Lạc,Phú Lương,Thái Nguyên,21.693,105.707,83.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063170-9547,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phú Tiến,Trung Hội,Định Hóa,Thái Nguyên,21.824,105.666,66.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063166-9527,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tân Linh,Phú Lạc,Đại Từ,Thái Nguyên,21.684,105.653,52.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063167-9528,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tân Thái,Đại Phúc,Đại Từ,Thái Nguyên,21.604,105.689,121.29,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063160-11256,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thanh Thịnh,Thanh Thịnh,Chợ Mới,Thái Nguyên,21.947,105.812,100.92,,Cao,,NCHMF
+landslide_warning,nchmf-30063172-9571,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Văn Lăng,Văn Lăng,Đồng Hỷ,Thái Nguyên,21.795,105.826,56.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063168-9530,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Vạn Thọ,Vạn Phú,Đại Từ,Thái Nguyên,21.57,105.664,50.821,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063181-9621,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Yên Đổ,Yên Trạch,Phú Lương,Thái Nguyên,21.8,105.701,59.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063182-1630,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hưng Đạo,Hưng Đạo,Bảo Lạc,Cao Bằng,22.816,105.711,52.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063183-1632,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Huy Giáp,Huy Giáp,Bảo Lạc,Cao Bằng,22.816,105.771,56.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063184-1642,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Mông Ân,Bảo Lâm,Bảo Lâm,Cao Bằng,22.8,105.538,56.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063184-1642,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Mông Ân,Yên Thổ,Bảo Lâm,Cao Bằng,22.8,105.538,56.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063185-1649,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thái Học,Yên Thổ,Bảo Lâm,Cao Bằng,22.745,105.515,72.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063186-1651,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Vĩnh Phong,Bảo Lâm,Bảo Lâm,Cao Bằng,22.837,105.591,64.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063187-1652,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Vĩnh Quang,Lý Bôn,Bảo Lâm,Cao Bằng,22.888,105.595,68.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063188-5786,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Na Sầm,Na Sầm,Văn Lãng,Lạng Sơn,22.054,106.616,67.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063189-11596,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bắc Việt,Văn Lãng,Văn Lãng,Lạng Sơn,22.102,106.564,63.2,,Trung bình,,NCHMF
+landslide_warning,nchmf-30063189-11596,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bắc Việt,Na Sầm,Văn Lãng,Lạng Sơn,22.102,106.564,63.2,,Trung bình,,NCHMF
+landslide_warning,nchmf-30063190-8345,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Phường Cẩm Bình,P. Cẩm Phả,TP.Cẩm Phả,Quảng Ninh,21.004,107.286,56.692,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063191-8350,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Phường Cẩm Tây,P. Mông Dương,TP.Cẩm Phả,Quảng Ninh,21.025,107.285,52.39,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063191-8350,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Phường Cẩm Tây,P. Cẩm Phả,TP.Cẩm Phả,Quảng Ninh,21.025,107.285,52.39,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063192-8351,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Phường Cẩm Thạch,P. Quang Hanh,TP.Cẩm Phả,Quảng Ninh,21.008,107.25,51.913,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063193-8354,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Phường Cẩm Thành,P. Cẩm Phả,TP.Cẩm Phả,Quảng Ninh,21.01,107.278,63.151,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063194-8353,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Phường Cẩm Thủy,P. Quang Hanh,TP.Cẩm Phả,Quảng Ninh,21.01,107.264,61.35,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063195-8355,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Phường Cẩm Trung,P. Cẩm Phả,TP.Cẩm Phả,Quảng Ninh,21.011,107.272,64.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063199-8444,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bắc Sơn,Hải Sơn,TP.Móng Cái,Quảng Ninh,21.604,107.864,69.51,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063200-8507,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Đoàn Kết,Đặc khu Vân Đồn,Vân Đồn,Quảng Ninh,21.097,107.41,64.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063196-8358,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Dương Huy,P. Mông Dương,TP.Cẩm Phả,Quảng Ninh,21.058,107.239,62.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063197-8437,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Lê Lợi,P. Hoành Bồ,TP.Hạ Long,Quảng Ninh,21.014,107.028,54.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063198-8443,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Vũ Oai,Thống Nhất,TP.Hạ Long,Quảng Ninh,21.086,107.146,66.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063201-4306,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phú Mãn,Phú Cát,Quốc Oai,TP. Hà Nội,20.945,105.524,51.616,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063202-6663,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Anh Sơn,Anh Sơn,Anh Sơn,Nghệ An,18.929,105.088,56.669,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063217-7029,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Thanh Chương,Đại Đồng,Thanh Chương,Nghệ An,18.785,105.337,50.464,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063203-6664,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bình Sơn,Thành Bình Thọ,Anh Sơn,Nghệ An,19.045,105.046,90.68,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063204-6666,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Cao Sơn,Yên Xuân,Anh Sơn,Nghệ An,18.9,105.176,74.93,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063210-6694,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Châu Khê,Châu Khê,Con Cuông,Nghệ An,18.993,104.668,76.0,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063214-6933,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Diên Lãm,Hùng Chân,Quỳ Châu,Nghệ An,19.4,104.948,65.67,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063218-7022,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Đồng Văn,Đại Đồng,Thanh Chương,Nghệ An,18.766,105.33,71.555,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063218-7022,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Đồng Văn,Hoa Quân,Thanh Chương,Nghệ An,18.766,105.33,71.555,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063205-6670,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hoa Sơn,Vĩnh Tường,Anh Sơn,Nghệ An,18.938,105.039,64.379,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063206-6669,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hội Sơn,Anh Sơn,Anh Sơn,Nghệ An,18.92,105.055,113.64,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063206-6669,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hội Sơn,Vĩnh Tường,Anh Sơn,Nghệ An,18.92,105.055,113.64,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063207-6675,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Long Sơn,Yên Xuân,Anh Sơn,Nghệ An,18.907,105.126,57.604,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063211-6701,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Môn Sơn,Môn Sơn,Con Cuông,Nghệ An,18.879,104.844,80.13,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063215-6949,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Nam Sơn,Mường Chọng,Quỳ Hợp,Nghệ An,19.248,105.026,64.8,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063219-7025,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Ngọc Sơn,Xuân Lâm,Thanh Chương,Nghệ An,18.753,105.381,51.09,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063216-7002,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phú Sơn,Tân An,Tân Kỳ,Nghệ An,19.034,105.104,63.56,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063216-7002,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phú Sơn,Nghĩa Hành,Tân Kỳ,Nghệ An,19.034,105.104,63.56,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063216-7002,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phú Sơn,Tiên Đồng,Tân Kỳ,Nghệ An,19.034,105.104,63.56,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063216-7002,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phú Sơn,Anh Sơn,Tân Kỳ,Nghệ An,19.034,105.104,63.56,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063212-6702,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thạch Ngàn,Thành Bình Thọ,Con Cuông,Nghệ An,19.124,104.989,73.97,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063212-6702,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thạch Ngàn,Mậu Thạch,Con Cuông,Nghệ An,19.124,104.989,73.97,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063208-6679,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thạch Sơn,Anh Sơn,Anh Sơn,Nghệ An,18.948,105.093,52.161,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063220-7028,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thanh Chi,Hoa Quân,Thanh Chương,Nghệ An,18.741,105.341,96.534,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063221-7032,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thanh Dương,Xuân Lâm,Thanh Chương,Nghệ An,18.712,105.414,73.76,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063222-7042,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thanh Lĩnh,Đại Đồng,Thanh Chương,Nghệ An,18.784,105.312,50.543,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063223-7043,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thanh Long,Kim Bảng,Thanh Chương,Nghệ An,18.706,105.376,89.003,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063224-7044,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thanh Lương,Xuân Lâm,Thanh Chương,Nghệ An,18.71,105.426,81.911,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063225-7046,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thanh Mai,Bích Hào,Thanh Chương,Nghệ An,18.625,105.366,54.46,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063209-6681,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thành Sơn,Thành Bình Thọ,Anh Sơn,Nghệ An,19.055,104.999,56.678,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063213-6921,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tiền Phong,Tiền Phong,Quế Phong,Nghệ An,19.684,104.967,65.42,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063226-7060,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Xuân Tường,Xuân Lâm,Thanh Chương,Nghệ An,18.721,105.395,93.973,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063227-4688,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hương Liên,Phúc Trạch,Hương Khê,Hà Tĩnh,18.051,105.771,54.992,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063228-4691,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hương Trạch,Phúc Trạch,Hương Khê,Hà Tĩnh,18.103,105.846,85.02,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063230-4750,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Kỳ Thượng,Kỳ Thượng,Kỳ Anh,Hà Tĩnh,18.03,106.077,63.36,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063231-11333,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Quang Thọ,Vũ Quang,Vũ Quang,Hà Tĩnh,18.267,105.367,55.42,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063229-4726,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Sơn Tây,Sơn Kim 2,Hương Sơn,Hà Tĩnh,18.452,105.349,69.75,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063229-4726,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Sơn Tây,Sơn Tây,Hương Sơn,Hà Tĩnh,18.452,105.349,69.75,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063233-7881,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Cao Quảng,Tuyên Hóa,Tuyên Hóa,Quảng Trị,17.76,106.169,51.26,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063232-8532,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hướng Hiệp,Hướng Hiệp,Đa Krông,Quảng Trị,16.762,106.795,67.69,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063234-7886,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hương Hóa,Tuyên Sơn,Tuyên Hóa,Quảng Trị,18.044,105.913,91.37,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063235-9066,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn A Lưới,A Lưới 2,A Lưới,TP. Huế,16.289,107.238,67.73,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063236-9067,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã A Ngo,A Lưới 2,A Lưới,TP. Huế,16.271,107.253,56.53,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063237-9076,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hồng Thái,A Lưới 3,A Lưới,TP. Huế,16.191,107.197,75.41,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063239-7967,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Duy Phú,Thu Bồn,Duy Xuyên,TP. Đà Nẵng,15.773,108.094,52.53,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063242-8070,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phước Xuân,Khâm Đức,Phước Sơn,TP. Đà Nẵng,15.51,107.761,65.08,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063241-8053,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tam Lộc,Tây Hồ,Phú Ninh,TP. Đà Nẵng,15.576,108.355,50.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063243-8142,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Tiên Phong,Tiên Phước,Tiên Phước,TP. Đà Nẵng,15.528,108.352,51.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063240-8016,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Trà Don,Nam Trà My,Nam Trà My,TP. Đà Nẵng,15.068,108.131,52.29,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063238-7909,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Trà Kót,Trà Liên,Bắc Trà My,TP. Đà Nẵng,15.349,108.403,66.77,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063248-8261,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Di Lăng,Sơn Hà,Sơn Hà,Quảng Ngãi,15.068,108.476,62.07,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063244-8155,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Ba Nam,Ba Tô,Ba Tơ,Quảng Ngãi,14.609,108.646,58.06,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063245-8160,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Ba Tô,Ba Tô,Ba Tơ,Quảng Ngãi,14.724,108.616,50.046,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063246-8164,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Ba Xa,Ba Xa,Ba Tơ,Quảng Ngãi,14.637,108.547,59.64,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063252-11489,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Hương Trà,Tây Trà Bồng,Trà Bồng,Quảng Ngãi,15.184,108.436,74.15,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063247-5535,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Măng Buk,Măng Bút,Kon Plông,Quảng Ngãi,14.888,108.18,86.12,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063249-8263,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Sơn Bao,Sơn Hà,Sơn Hà,Quảng Ngãi,15.058,108.392,58.92,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063250-8267,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Sơn Hải,Sơn Thủy,Sơn Hà,Quảng Ngãi,14.978,108.509,60.19,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063251-8292,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Sơn Mùa,Sơn Tây Thượng,Sơn Tây,Quảng Ngãi,15.041,108.323,59.19,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063253-8308,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Trà Lâm,Thanh Bồng,Trà Bồng,Quảng Ngãi,15.233,108.424,55.019,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063254-8298,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Trà Phong,Tây Trà,Trà Bồng,Quảng Ngãi,15.179,108.359,94.87,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063255-11379,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Trà Tây,Tây Trà Bồng,Trà Bồng,Quảng Ngãi,15.126,108.418,69.88,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063256-8301,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Trà Thanh,Thanh Bồng,Trà Bồng,Quảng Ngãi,15.264,108.336,78.23,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063257-8303,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Trà Xinh,Tây Trà,Trà Bồng,Quảng Ngãi,15.124,108.32,80.59,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063262-2694,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Ia Kha,Gào,Ia Grai,Gia Lai,13.966,107.844,71.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063262-2694,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Thị trấn Ia Kha,Ia Grai,Ia Grai,Gia Lai,13.966,107.844,71.2,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063258-953,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã An Nghĩa,An Toàn,An Lão,Gia Lai,14.494,108.827,57.35,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063258-953,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã An Nghĩa,An Hòa,An Lão,Gia Lai,14.494,108.827,57.35,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063259-954,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã An Quang,An Hòa,An Lão,Gia Lai,14.529,108.816,60.05,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063260-985,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Ân Tường Tây,Ân Tường,Hoài Ân,Gia Lai,14.275,108.932,52.9,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063261-11483,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Đak Mang,Ân Tường,Hoài Ân,Gia Lai,14.407,108.816,77.76,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063263-2723,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Sơn Lang,Sơn Lang,KBang,Gia Lai,14.442,108.566,92.19,Cao,Cao,,NCHMF
+landslide_warning,nchmf-30063264-1101,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Vĩnh Hòa,Vĩnh Quang,Vĩnh Thạnh,Gia Lai,14.044,108.84,50.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063265-1106,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Vĩnh Thịnh,Vĩnh Thịnh,Vĩnh Thạnh,Gia Lai,14.101,108.832,62.78,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063266-5961,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Nam Ninh,Cát Tiên,Đạ Huoai,Lâm Đồng,11.616,107.407,51.21,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063267-5963,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Phước Cát 2,Cát Tiên 2,Đạ Huoai,Lâm Đồng,11.68,107.323,77.4,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063268-1213,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bom Bo,Đak Nhau,Bù Đăng,Đồng Nai,11.902,107.141,62.87,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063268-1213,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Bom Bo,Bom Bo,Bù Đăng,Đồng Nai,11.902,107.141,62.87,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063270-2132,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thanh Sơn,Thanh Sơn,Định Quán,Đồng Nai,11.294,107.249,53.6,Trung bình,Trung bình,,NCHMF
+landslide_warning,nchmf-30063269-1211,2026-07-24T15:42:32+07:00,2026-07-24T15:00:00+07:00,6,Xã Thiện Hưng,Thiện Hưng,Bù Đốp,Đồng Nai,12.005,106.773,55.32,Trung bình,Trung bình,,NCHMF
