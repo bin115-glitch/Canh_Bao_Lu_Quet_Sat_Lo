@@ -1,27 +1,29 @@
-**BẢN TIN PHÂN TÍCH THIÊN TAI VIỆT NAM**
-**Cập nhật lúc 02:46 ngày 24/07/2026**
+BẢN TIN PHÂN TÍCH THIÊN TAI VIỆT NAM - CẬP NHẬT SÁNG 24/07/2026
 
-Kính gửi quý vị,
-
-Thực hiện nhiệm vụ phân tích thiên tai, chúng tôi xin cung cấp thông tin tổng hợp về tình hình mưa và cảnh báo sạt lở, lũ quét trên cả nước dựa trên dữ liệu cập nhật.
+Với vai trò trợ lý phân tích thiên tai Việt Nam, chúng tôi tổng hợp dữ liệu mới nhất đến khoảng 10:00 sáng ngày 24/07/2026 về tình hình mưa và nguy cơ thiên tai trên cả nước.
 
 **Điểm đáng chú ý:**
+*   Hệ thống ghi nhận tổng cộng **210 cảnh báo thiên tai** trên toàn quốc.
+*   Trong đó, có **2 khu vực** được đánh giá rủi ro **"Rất cao"** và **27 khu vực** rủi ro **"Cao"** về lũ quét và sạt lở đất.
+*   Lượng mưa lớn nhất ghi nhận được là **161.4 mm** tại trạm Hà Lang.
 
-*   **Tình hình mưa:** Hiện có 2586 trạm đo mưa đang hoạt động. Lượng mưa lớn nhất được ghi nhận là **77.0 mm** tại trạm Phước Cát 2 - Cát Tiên. Một số khu vực khác cũng ghi nhận lượng mưa lớn trên 50mm, cho thấy nguy cơ mưa to cục bộ.
-*   **Cảnh báo sạt lở/lũ quét:** Toàn quốc ghi nhận tổng cộng **121 cảnh báo** liên quan đến sạt lở đất và lũ quét. Trong đó, có **2 cảnh báo ở mức RẤT CAO** và **6 cảnh báo ở mức CAO**, cho thấy tình hình nguy hiểm tại một số địa phương. Các cảnh báo này có hiệu lực dự kiến trong 6 giờ tiếp theo tính từ 02:00 ngày 24/07/2026.
+**Địa điểm rủi ro cao cần đặc biệt lưu ý:**
 
-**Địa điểm rủi ro cao cần đặc biệt chú ý:**
+**1. Rủi ro Rất cao (Nguy cơ lũ quét/sạt lở đất):**
+*   **Xã Hà Lang, huyện Chiêm Hóa, tỉnh Tuyên Quang** (lượng mưa ghi nhận tại khu vực cảnh báo là 161.63mm).
+*   **Xã Minh Quang, huyện Lâm Bình, tỉnh Tuyên Quang** (lượng mưa ghi nhận tại khu vực cảnh báo là 141.4mm).
 
-*   **Mức RẤT CAO (Nguy cơ sạt lở đất và lũ quét RẤT CAO):**
-    *   **Xã Mường Mươn, huyện Mường Chà, tỉnh Điện Biên** (lượng mưa dự báo/quan trắc: 157.2 mm)
-*   **Mức CAO (Nguy cơ sạt lở đất và lũ quét CAO):**
-    *   **Xã Bắc Sơn, TP. Móng Cái, tỉnh Quảng Ninh** (lượng mưa dự báo/quan trắc: 118.89 mm)
-    *   **Xã Hội Sơn, huyện Anh Sơn, tỉnh Nghệ An** (lượng mưa dự báo/quan trắc: 113.0 mm)
-    *   **Xã Nậm Cuổi, huyện Sìn Hồ, tỉnh Lai Châu** (lượng mưa dự báo/quan trắc: 109.2 mm)
-    *   **Thị trấn Ia Kha, huyện Ia Grai, tỉnh Gia Lai** (lượng mưa dự báo/quan trắc: 93.97 mm)
+**2. Một số khu vực rủi ro Cao (Nguy cơ lũ quét/sạt lở đất):**
+*   **Tỉnh Tuyên Quang:** Xã Xuân Minh (huyện Quang Bình) với lượng mưa 136.6mm; Xã Thượng Lâm (huyện Lâm Bình) với lượng mưa 101.4mm.
+*   **Tỉnh Lào Cai:** Xã Cảm Nhân (huyện Yên Bình) với lượng mưa 135.77mm.
+*   **Tỉnh Thái Nguyên:** Thị trấn Quân Chu (huyện Đại Từ) với 123.0mm; Xã Tân Thái (huyện Đại Từ) với 121.2mm; Xã Cù Vân (huyện Đại Từ) với 101.8mm; Xã Nhạn Môn (huyện Pác Nặm) với 99.2mm.
+*   **Tỉnh Phú Thọ:** Xã Tuân Chính, Thị trấn Thổ Tang, Xã Tam Phúc, Xã Phú Hộ, Phường Minh Nông, Xã Vĩnh Thịnh, Xã Lý Nhân (thuộc các huyện Vĩnh Tường, TX.Phú Thọ, TP.Việt Trì) đều ghi nhận lượng mưa trên 100mm.
+*   **Tỉnh Nghệ An:** Xã Hội Sơn (huyện Anh Sơn) với lượng mưa 113.0mm.
 
 **Khuyến nghị:**
+Người dân sinh sống tại các khu vực nêu trên và các vùng lân cận cần hết sức cảnh giác, chủ động theo dõi diễn biến thời tiết, chuẩn bị các biện pháp phòng tránh cần thiết trước nguy cơ lũ quét và sạt lở đất.
 
-Chúng tôi khuyến nghị người dân tại các khu vực nêu trên và các vùng lân cận cần đặc biệt cảnh giác trước nguy cơ sạt lở đất và lũ quét. Thường xuyên theo dõi thông tin từ các cơ quan chức năng, đài khí tượng thủy văn địa phương và các kênh thông tin chính thống để cập nhật diễn biến tình hình và có biện pháp ứng phó kịp thời, đặc biệt là các khuyến cáo về sơ tán hoặc di chuyển an toàn.
+**Kiểm tra nguồn chính thức:**
+Để có thông tin chi tiết và kịp thời nhất, đề nghị quý vị và người dân **kiểm tra các nguồn tin chính thức** từ Ban Chỉ đạo Quốc gia về Phòng, chống thiên tai, Tổng cục Khí tượng Thủy văn Việt Nam, đài phát thanh, truyền hình địa phương và các kênh thông tin chính thống khác.
 
-**Lưu ý quan trọng:** Bản tin này chỉ mang tính chất tham khảo dựa trên dữ liệu được cung cấp tại thời điểm phân tích và không phải là một cảnh báo pháp lý chính thức. Mọi quyết định ứng phó cần dựa trên thông tin chính thức từ cơ quan quản lý nhà nước về phòng chống thiên tai.
+**Lưu ý quan trọng:** Bản tin này được tổng hợp từ dữ liệu phân tích và **không mang tính chất là một cảnh báo pháp lý.**
